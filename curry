@@ -24,4 +24,5 @@ Cook:
 *   Add the curry paste and fry for three minutes. (also the spices?)
 *   Add one can of coconut milk and the chicken, and cook for four minutes.
 *   Gradually add the rest of the coconut milk.
-*   Add the rest of the ingredients, and cook for about 45 minutes.
+*   Add the rest of the ingredients, and cook for about 30 minutes (until
+    potatoes are soft).
