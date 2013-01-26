@@ -1,4 +1,4 @@
-2 tbsp cup coconut oil (or canola or vegetable oil)
+2 tbsp coconut oil (or canola or vegetable oil)
 1 can curry paste (Prik Khing or Panang is good)
 2* cans coconut milk (*2.5 cans if you want it less spicy)
 1 pinch of asafoetida (optional)
