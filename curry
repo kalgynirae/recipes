@@ -26,3 +26,17 @@ Cook:
 *   Gradually add the rest of the coconut milk.
 *   Add the rest of the ingredients, and cook for about 30 minutes (until
     potatoes are soft).
+
+Large portion ingredients
+
+4 tbsp coconut oil
+2 cans curry paste
+3 cans coconut milk
+1/4 tsp of asafoetida
+1/2 tsp ginger powder
+2 lb chicken breast
+1 cup split mung bean
+3/4 lb fresh green beens
+5 potatoes
+6 big carrots
+2 tsp turmeric powder
