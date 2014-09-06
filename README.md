@@ -1,6 +1,7 @@
 Recipes!
 
 *   [Almond Salad Dressing](http://lumeh.org/recipes/almond_salad_dressing.html)
+*   [Banana Bread](http://lumeh.org/recipes/banana_bread.html)
 *   [Chili](http://lumeh.org/recipes/chili.html)
 *   [Christmas Anything](http://lumeh.org/recipes/christmas_anything.html)
 *   [Cookies](http://lumeh.org/recipes/cookies.html)
