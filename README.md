@@ -9,6 +9,7 @@ Recipes!
 *   [Crème Brûlée Cheesecake](http://lumeh.org/recipes/creme_brulee_cheesecake.html)
 *   [Mung Bean Dal](http://lumeh.org/recipes/mung_bean_dal.html)
 *   [Pumpkin Bread](http://lumeh.org/recipes/pumpkin_bread.html)
+*   [Quiche](http://lumeh.org/recipes/quiche.html)
 *   [Sugar Cookies](http://lumeh.org/recipes/sugar_cookies.html)
 *   [Sweet Potato Casserole](http://lumeh.org/recipes/sweet_potato_casserole.html)
 *   [Thai Chicken Curry](http://lumeh.org/recipes/thai_chicken_curry.html)
