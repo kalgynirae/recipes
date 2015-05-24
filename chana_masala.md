@@ -7,20 +7,20 @@ Toast and grind
 *   2 tsp cumin seeds
 *   1 tsp coriander seeds
 *   1 tsp fennel seeds
-*   1/2 tsp fenugreek seeds
 
 To the ground spices add
 
-*   1 tsp amchoor
+*   1 tsp amchoor (dried mango) powder
 *   2 tsp paprika
 *   1/2 tsp garam masala
-*   1 tsp turmeric
-*   1/4 tsp cayenne
+*   1 tsp turmeric powder
+*   1/4 tsp cayenne powder
+*   1/4 tsp fenugreek powder
 *   1 tsp salt
 
 Heat
 
-*   3 tbsp oil
+*   3 tbsp ghee (clarified butter) (or vegetable oil)
 
 in a pan. Add
 
@@ -42,9 +42,10 @@ Cook for a few minutes more and add
 Cook for several more minutes and add
 
 *   the reserved chickpea liquid
-*   2 tbsp lemon juice
-*   2 tsp sugar
+*   2 tsp lemon juice
+*   2 tsp brown sugar
+*   crumbled dried fenugreek leaves
 
 Continue to cook until thickened. Serve over rice. Garnish with
 
-*   chopped fresh cilantro.
+*   chopped fresh cilantro
