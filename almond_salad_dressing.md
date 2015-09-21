@@ -3,17 +3,21 @@
 
 # Acquire
 
-*   1/3 cup powdered almonds
-*   1/3 cup nutritional yeast
-*   1/16 tsp asafoetida powder
+*   1/4 cup powdered almonds
+*   1/4 cup nutritional yeast
+*   1/12 tsp asafoetida powder
 *   1/4 tsp salt
-*   1/3 cup sunflower or safflower oil
-*   1/2 cup water
-*   1 tsp Bragg liquid aminos (alternatively: soy sauce)
+*   1/4 cup sunflower or safflower oil
+*   1/4 cup water (plus a bit more to get the right thickness)
+*   1+1/4 tsp Bragg liquid aminos (alternatively: soy sauce)
 
 Yields roughly 1 cup.
 
 # Prepare
 
-1.  Put the ingredients into a blender, and blend for 30 seconds.
-2.  Refrigerate. (Note: the dressing will thicken with refrigeration.)
+1.  Put the dry ingredients into a blender and pulse a few times.
+2.  Add the liquids and blend for 30 seconds.
+3.  Taste and observe the thickness. If it's too thick, add a small amount of
+    extra water and blend briefly. Repeat if necessary. (Remember that it will
+    thicken with refrigeration.)
+2.  Refrigerate.
