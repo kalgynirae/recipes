@@ -11,13 +11,14 @@
 Ideally the eggplant:zucchini:everythingelse ratio is about 2:1:1.
 
 * oil/butter
-* 1 tsp cumin seeds
-* 1/2 tsp caraway seeds?
+* 2 tsp cumin seeds
+* 1/2 tsp caraway seeds
+* 1/2 tsp fennel seeds
 * 2 tsp garam masala
 * 1/2 tsp asafoetida
 * 1/2 tsp turmeric
+* 2 tsp paprika
 * ? curry leaves
-* ? tomato paste
-* 16 oz diced tomato
-* cream
+* 6 oz can tomato paste
+* 2 cups cream
 * 2 tsp lemon juice
