@@ -7,7 +7,7 @@
 
 * 3-4 overripe bananas
 * 1/4 cup butter, softened
-* 2 eggs
+* 1 eggs
 * 1/2 cup sugar
 * 8 oz sweetened condensed milk
 * 1 tsp vanilla extract

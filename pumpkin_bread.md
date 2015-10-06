@@ -14,7 +14,7 @@
 
 <!---->
 
-*   3 eggs
+*   2 eggs
 *   190 g (1- cup) sugar
 *   90 g (0.5 cup) brown sugar
 *   1/2 tsp vanilla extract
