@@ -12,6 +12,7 @@ Recipes!
 *   [Crème Brûlée Cheesecake](http://lumeh.org/recipes/creme_brulee_cheesecake.html)
 *   [Green Bean Bundles](http://lumeh.org/recipes/green_bean_bundles.html)
 *   [Mac and Cheese](http://lumeh.org/recipes/mac_and_cheese.html)
+*   [Monday Krishna dal](http://lumeh.org/recipes/monday_krishna_dal.html)
 *   [Mung Bean Dal](http://lumeh.org/recipes/mung_bean_dal.html)
 *   [Pumpkin Bread](http://lumeh.org/recipes/pumpkin_bread.html)
 *   [Quiche](http://lumeh.org/recipes/quiche.html)
