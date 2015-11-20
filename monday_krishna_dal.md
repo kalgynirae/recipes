@@ -11,24 +11,22 @@ Place them in a large pot with
 *   water
 *   1 tbsp lemon juice
 *   1/2 tsp turmeric
-*   1/2 cup diced apple
-*   3/4? tsp salt
+*   1/4 cup shredded coconut
+*   1 tsp salt
 
 and boil for roughly 20 minutes (until the beans are soft and falling apart).
 
 While the beans are boiling, toast and grind
 
 *   1 tsp cumin seeds
-*   1/2 tsp coriander seeds
-*   1/2 tsp black mustard seeds.
+*   1/4 tsp coriander seeds
 
 Mix the ground spices with
 
 *   1 tsp asafoetida
-*   1/2 tsp ginger powder
 *   1/2 tsp paprika
-*   1/4 tsp ground sumac?
-*   1/2 tsp dried curry leaves.
+*   1/4 tsp ground sumac
+*   1/8 tsp fenugreek powder
 
 In a small pan, heat
 
@@ -43,7 +41,6 @@ stir it into the beans.
 
 Add
 
-*   1/4 cup half & half
-*   salt to taste.
+*   1/4 cup coconut milk
 
 Serve over rice.
