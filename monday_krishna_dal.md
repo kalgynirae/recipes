@@ -32,15 +32,11 @@ In a small pan, heat
 
 *   2 tbsp coconut oil.
 
-Add the spices and fry. Add
-
-*   6 oz small diced tomatoes (1/2 can)
-
-and fry a bit longer. Remove the fried spice+tomato mixture from the heat, and
-stir it into the beans.
+Add the spices, fry for 1 or 2 minutes, and then stir the oil+spices into the
+beans.
 
 Add
 
-*   1/4 cup coconut milk
+*   1/4 cup coconut milk.
 
 Serve over rice.
