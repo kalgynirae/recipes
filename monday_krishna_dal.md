@@ -11,7 +11,7 @@ Place them in a large pot with
 *   water
 *   1 tbsp lemon juice
 *   1/2 tsp turmeric
-*   1/4 cup shredded coconut
+*   1/6 cup unsweetened coconut flakes
 *   1 tsp salt
 
 and boil for roughly 20 minutes (until the beans are soft and falling apart).
