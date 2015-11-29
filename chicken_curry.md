@@ -5,7 +5,7 @@
 Cooking time: 2 hours (caramelizing onions takes a long time!)
 
 Note: Read the ingredient list carefully; some ingredients are mentioned in
-multiple parts. For example, the recipe calls for 4 onions!
+multiple parts. For example, the recipe calls for 3 onions!
 
 Acquire
 
@@ -25,7 +25,7 @@ In a pot, heat
 
 Once it's hot, add
 
-* 3 large yellow onions, diced finely,
+* 2 large yellow onions, diced finely,
 * 3/4 tsp salt
 
 and cook until the onions are soft and starting to caramelize (~20 minutes).
