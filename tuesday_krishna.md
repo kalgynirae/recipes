@@ -18,7 +18,11 @@ Ideally the eggplant:zucchini:everythingelse ratio is about 2:1:1.
 * 1/2 tsp asafoetida
 * 1/2 tsp turmeric
 * 2 tsp paprika
-* ? curry leaves
 * 6 oz can tomato paste
-* 2 cups cream
+* 1.5 tsp salt
+
+Add the veggies.
+
+* 3 cups half & half
+* ? curry leaves
 * 2 tsp lemon juice
