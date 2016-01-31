@@ -2,31 +2,34 @@
 % Colin Chan
 % 2015-10-24
 
-Rinse
+Rinse and soak
 
-*   1 cup split mung bean (or any yellow/orange lentils)
+*   1 cup red lentils (or any yellow/orange lentils)
 
-Place them in a large pot with
+for 20 minutes. Drain and place them in a medium pot with
 
-*   water
+*   2.5 cups water
 *   1 tbsp lemon juice
 *   1/2 tsp turmeric
-*   1/6 cup unsweetened coconut flakes
-*   1 tsp salt
+*   1/2 cup diced golden apple (optional)
+*   1/6 cup unsweetened coconut flakes (optional)
+*   1 tsp salt.
 
-and boil for roughly 20 minutes (until the beans are soft and falling apart).
+Bring to a boil, then reduce the heat and simmer for roughly 15 minutes (until
+the beans are soft and falling apart).
 
 While the beans are boiling, toast and grind
 
 *   1 tsp cumin seeds
-*   1/4 tsp coriander seeds
+*   1/2 tsp coriander seeds.
 
 Mix the ground spices with
 
-*   1 tsp asafoetida
+*   1 tsp asafoetida (hing)
 *   1/2 tsp paprika
 *   1/4 tsp ground sumac
 *   1/8 tsp fenugreek powder
+*   1/4 tsp cayenne powder (optional, makes it spicy).
 
 In a small pan, heat
 
@@ -39,4 +42,4 @@ Add
 
 *   1/4 cup coconut milk.
 
-Serve over rice.
+Serve alone or over basmati rice.
