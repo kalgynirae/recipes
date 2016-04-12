@@ -6,7 +6,7 @@ Toast and grind
 
 *   2 tsp cumin seeds
 *   1 tsp coriander seeds
-*   1 tsp fennel seeds
+*   1 tsp fennel seeds.
 
 To the ground spices add
 
@@ -14,9 +14,9 @@ To the ground spices add
 *   2 tsp paprika
 *   1/2 tsp garam masala
 *   1 tsp turmeric powder
-*   1/4 tsp cayenne powder
+*   1/4 tsp cayenne powder (omit for non-spicy)
 *   1/4 tsp fenugreek powder
-*   1 tsp salt
+*   3/4 tsp salt.
 
 Heat
 
@@ -30,22 +30,28 @@ and cook for a while. Add
 
 *   2 tsp minced garlic
 *   2 tsp minced (or grated) ginger
+*   1 diced green chilie (omit for non-spicy)
 
-and the dry spices from before. Cook for a couple of minutes, then add
+and cook for about 30 seconds.
 
-*   1 can (14 oz) diced tomatoes
+Add the dried spices from before.
+
+Cook for 1 minute, then add
+
+*   1 can (14 oz) petite diced tomatoes.
 
 Cook for a few minutes more and add
 
-*   2 cans (15 oz each) chickpeas, drained (reserve the liquid for later)
+*   2 cans (15 oz each) chickpeas, drained (reserve one can's worth of liquid for later).
 
-Cook for several more minutes and add
+Cover and cook for about 15 minutes. Remove the cover, add
 
 *   the reserved chickpea liquid
 *   2 tsp lemon juice
-*   2 tsp brown sugar
-*   crumbled dried fenugreek leaves
+*   2 tsp brown sugar,
 
-Continue to cook until thickened. Serve over rice. Garnish with
+and continue to cook until thickened. Just before serving, add
 
-*   chopped fresh cilantro
+*   1 tsp ground dried fenugreek leaves.
+
+Serve over basmati rice.
