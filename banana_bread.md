@@ -24,11 +24,11 @@
 
 # Procedure
 
-Preheat an oven to 325°F.
+Preheat an oven to 350°F.
 
 In a bowl, mash the bananas with a fork, and mix well with the rest of the wet
 ingredients. In a separate bowl, combine the dry ingredients. Pour the dry
 mixture on top of the wet, and stir just until combined. Pour into a bread pan.
 
-Bake for about 1 hour (check for doneness by poking a knife into the center of
+Bake for 45–55 minutes (check for doneness by poking a knife into the center of
 the loaf and seeing if it comes out clean).
