@@ -1,5 +1,10 @@
 Recipes!
 
+The following recipes are available in nicely-formatted, printable form on
+lumeh.org. Note that some of them might be slightly out-of-date compared to the
+versions in this repository. (You can check the link in the footer of each page
+to see which version it was built from.)
+
 *   [Almond Salad Dressing](http://lumeh.org/recipes/almond_salad_dressing.html)
 *   [Banana Bread](http://lumeh.org/recipes/banana_bread.html)
 *   [Beef Curry](http://lumeh.org/recipes/beef_curry.html)
