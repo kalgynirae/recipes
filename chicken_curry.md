@@ -1,73 +1,73 @@
-% Chicken Curry (DRAFT)
+% Chicken Curry
 % Colin Chan
-% 2015-09-12
+% 2016-06-04
 
-Cooking time: 2 hours (caramelizing onions takes a long time!)
+Cooking time: 1.5 hours (caramelizing onions takes a long time!)
 
-Note: Read the ingredient list carefully; some ingredients are mentioned in
-multiple parts. For example, the recipe calls for 3 onions!
-
-Acquire
+## Step 1: Caramelize shallots (or onions)
 
 * 1 tbsp butter
-* 1 large yellow onion, diced finely
-* 1/4 tsp salt
-* small amounts of water for deglazing.
+* 1 cup shallots (or onion), diced finely
+* 1/8 tsp salt
 
-Caramelize about a quarter of the onions over medium heat, stirring often and
-deglazing the pan with water as necessary. This should take about 45 minutes.
-(See [The Food Lab's analysis][1] for details.) Set the caramelized onions
-aside.
+Caramelize the shallots over medium-low heat, stirring often and deglazing the
+pan with water as necessary.  This should take roughly 25 minutes (or 40 minutes
+for onion; see [The Food Lab's analysis][1] for details).  Set the caramelized
+shallots aside.
 
-In a pot, heat
+## Step 2: Prepare spices
 
-* 2 tbsp butter.
+* 2.5 tsp fennel seeds
+* 1 tsp cumin seeds
+* 2 tsp coriander seeds
+* 1/2 tsp fenugreek seeds
 
-Once it's hot, add
+Toast the seeds briefly and then grind into a powder. Set aside.
 
-* 2 large yellow onions, diced finely,
+* 1 tsp ground cloves
+* 1 tsp ground allspice
+* 1 tsp ground cinnamon
+* 1/4 tsp ground cardamom
+* 1 tsp turmeric
+* 1/2 tsp paprika
+* 1/4 tsp ground black pepper
+* 1/2 tsp cayenne powder (optional, spicy)
 * 3/4 tsp salt
 
-and cook until the onions are soft and starting to caramelize (~20 minutes).
-Then, push the onions to one side of the pan, and in the other side of the pan
-add
+Measure these together and set aside.
 
-* 1 tbsp butter
-* 8 cloves
-* 1.5 tsp cumin seeds.
+* 1/2 tsp asafoetida
+* 1 tsp cumin seeds
 
-Fry for about a minute, and then add
+Measure these and set aside.
 
-* 1 tbsp minced garlic.
+## Step 3: Make curry
 
-Fry for about 30 seconds, then add
+* 3 tbsp butter
+* 2.5 cups yellow onion, diced finely
+* 1/2 tsp salt
+* 2 tbsp garlic, minced
+* 4 oz tomato paste
+* 2 lb chicken thighs
+* 1 cup water
 
-* 3 tsp curry powder
-* 1/2 tsp paprika
-* 1/4 tsp cayenne powder.
+Heat the butter in a large pot. Add the asafoetida and whole cumin seeds (from
+the previous step) and cook for about 30 seconds.  Add the onions and salt, and
+cook until the onions are soft and starting to caramelize (~20 minutes).  Add
+the garlic and cook for another minute.  Add the rest of the spices and cook for
+another minute.  Add the tomato paste and cook for another minute.  Add the
+chicken thighs and stir to coat them with the tomato spice mixture.  Add the
+water, cover, and simmer until the chicken is cooked (~30 minutes).
 
-Fry for about a minute, then add
+## Step 4: Cook rice
 
-* 8 chicken thighs
-* 1/2 cup water.
+Make basmati rice.
 
-Simmer until the chicken is cooked (about 30 minutes). In a small pan, heat
+## Step 5: Finish it up
 
-* 1 tbsp butter.
-
-Once the butter is heated, add
-
-* 2 tsp all-purpose flour.
-
-Cook for about two minutes, and then add to the chicken. Remove the chicken from
-the heat and add
-
-* 1/4 cup half & half
-* salt to taste.
-
-Garnish with
-
-* chopped fresh cilantro.
+* 1/4 cup heavy cream
+* 1/2 tsp dried fenugreek leaves, crumbled (or ground)
+* salt to taste
 
 Serve over basmati rice.
 
