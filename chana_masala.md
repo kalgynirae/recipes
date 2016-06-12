@@ -20,7 +20,7 @@ To the ground spices add
 
 Heat
 
-*   3 tbsp ghee (clarified butter) (or vegetable oil)
+*   3 tbsp butter (or vegetable oil)
 
 in a pan. Add
 
@@ -42,16 +42,16 @@ Cook for 1 minute, then add
 
 Cook for a few minutes more and add
 
-*   2 cans (15 oz each) chickpeas, drained (reserve one can's worth of liquid for later).
+*   2 cans (15 oz each) chickpeas, one drained, the other not drained
 
 Cover and cook for about 15 minutes. Remove the cover, add
 
-*   the reserved chickpea liquid
 *   2 tsp lemon juice
-*   2 tsp brown sugar,
+*   2 tsp brown sugar
 
 and continue to cook until thickened. Just before serving, add
 
-*   1 tsp ground dried fenugreek leaves.
+*   1 tsp ground dried fenugreek leaves
+*   1/2 tsp garam masala
 
-Serve over basmati rice.
+and stir. Serve over basmati rice.

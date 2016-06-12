@@ -11,35 +11,43 @@ Cooking time: 1.5 hours (caramelizing onions takes a long time!)
 * 1/8 tsp salt
 
 Caramelize the shallots over medium-low heat, stirring often and deglazing the
-pan with water as necessary.  This should take roughly 25 minutes (or 40 minutes
-for onion; see [The Food Lab's analysis][1] for details).  Set the caramelized
-shallots aside.
+pan with water as necessary.  This should take roughly 40 minutes (see
+[The Food Lab's analysis][1] for details).  Set the caramelized shallots aside.
 
 ## Step 2: Prepare spices
 
 * 2.5 tsp fennel seeds
 * 1 tsp cumin seeds
 * 2 tsp coriander seeds
-* 1/2 tsp fenugreek seeds
+* 1/4 tsp fenugreek seeds
 
-Toast the seeds briefly and then grind into a powder. Set aside.
+Toast the seeds briefly and then grind into a powder.  Set aside.
 
 * 1 tsp ground cloves
 * 1 tsp ground allspice
 * 1 tsp ground cinnamon
 * 1/4 tsp ground cardamom
+
+Mix these and then split the mixture into two batches.
+
 * 1 tsp turmeric
 * 1/2 tsp paprika
 * 1/4 tsp ground black pepper
 * 1/2 tsp cayenne powder (optional, spicy)
 * 3/4 tsp salt
 
-Measure these together and set aside.
+Add these to one of the batches of cloves, allspice, etc.  Also add the toasted
+and ground seeds to this batch.  Set this aside for the next step.
+
+* 1/2 tsp dried fenugreek leaves, crumbled (or ground)
+
+Add these to the other batch of cloves, allspice, etc.  Set this aside for the
+very end of the recipe.
 
 * 1/2 tsp asafoetida
 * 1 tsp cumin seeds
 
-Measure these and set aside.
+Measure these and set aside for the next step.
 
 ## Step 3: Make curry
 
@@ -47,15 +55,15 @@ Measure these and set aside.
 * 2.5 cups yellow onion, diced finely
 * 1/2 tsp salt
 * 2 tbsp garlic, minced
-* 4 oz tomato paste
+* 1/4 cup crushed tomatoes
 * 2 lb chicken thighs
 * 1 cup water
 
-Heat the butter in a large pot. Add the asafoetida and whole cumin seeds (from
+Heat the butter in a large pot.  Add the asafoetida and cumin seeds (from
 the previous step) and cook for about 30 seconds.  Add the onions and salt, and
-cook until the onions are soft and starting to caramelize (~20 minutes).  Add
+cook until the onions are soft and starting to caramelize (~15 minutes).  Add
 the garlic and cook for another minute.  Add the rest of the spices and cook for
-another minute.  Add the tomato paste and cook for another minute.  Add the
+another minute.  Add the crushed tomatoes and cook for another minute.  Add the
 chicken thighs and stir to coat them with the tomato spice mixture.  Add the
 water, cover, and simmer until the chicken is cooked (~30 minutes).
 
@@ -66,9 +74,8 @@ Make basmati rice.
 ## Step 5: Finish it up
 
 * 1/4 cup heavy cream
-* 1/2 tsp dried fenugreek leaves, crumbled (or ground)
-* salt to taste
+* salt/MSG to taste
 
-Serve over basmati rice.
+Mix these and the remaining spices into the curry.  Serve over basmati rice.
 
 [1]: http://www.seriouseats.com/2011/01/the-food-lab-real-french-onion-dip-homemade-super-bowl-recipe.html
