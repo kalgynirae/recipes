@@ -15,7 +15,7 @@
 
 ## Dry
 
-* 1 3/4 cups all-purpose flour
+* 210 g (1 3/4 cups) all-purpose flour
 * 1 tsp baking soda
 * 1/2 tsp baking powder
 * 1/2 tsp salt
