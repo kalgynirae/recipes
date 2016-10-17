@@ -4,11 +4,11 @@
 # Acquire
 
 *   1/4 cup powdered almonds
-*   1/3 cup nutritional yeast ([Frontier Nutritional Yeast Mini Flakes][1] taste the best)
+*   1/4 cup nutritional yeast ([Frontier Nutritional Yeast Mini Flakes][1] taste the best)
 *   1/12 tsp asafoetida powder
 *   1/4 tsp salt
-*   1/4 cup sunflower or safflower oil
-*   1/3 cup water (plus a bit more to get the right thickness)
+*   1/3 cup sunflower or safflower oil
+*   1/3 cup water
 *   1.25 tsp Bragg liquid aminos (alternatively: soy sauce)
 
 Yields roughly 1 cup.
