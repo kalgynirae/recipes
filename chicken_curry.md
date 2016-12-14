@@ -1,9 +1,13 @@
 % Chicken Curry
 % Colin Chan
-% 2016-06-04
+% 2016-12-13
 
-Cooking time: 1.75 hours (caramelizing onions takes a long time! If you skip the
-caramelized onions, you can do it in about an hour.)
+This curry is my attempt to duplicate the "Chicken Curry" from the Indian
+Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but
+there's still a little room for improvement.
+
+Cooking time: 2 hours (caramelizing onions takes a long time! If you skip the
+caramelized onions, you can do it in about 1 hour 15 minutes.)
 
 ## Step 1: Caramelize onions
 
@@ -32,7 +36,7 @@ Mix these and then split the mixture into two batches.
 * 1.5 tsp turmeric
 * 1/4 tsp paprika
 * 1/4 tsp ground black pepper
-* 1/4 tsp cayenne powder (optional, spicy)
+* 1/8 tsp cayenne powder
 * 1/2 tsp salt
 
 Add these to one of the batches of cloves, cinnamon, etc.  Also add the toasted
@@ -40,7 +44,7 @@ and ground seeds to this batch.  Set this aside for the next step.
 
 * 1/4 tsp ground nutmeg
 
-Add this to the other batch of cloves, cinnamon, etc.  Set this aside for the
+Add this to the *other* batch of cloves, cinnamon, etc.  Set this aside for the
 very end of the recipe.
 
 ## Step 3: Make curry
@@ -51,7 +55,7 @@ very end of the recipe.
 * 10 green cardamom pods
 * 2 cups sweet onion, diced finely
 * 1/2 tsp salt
-* 2 lb chicken thighs
+* 3 lb chicken thighs with bone (or drumsticks)
 * 1.5 cup chicken stock
 
 Heat the ghee or butter in a large pot.  Add the asafoetida, cumin seeds, and
@@ -59,12 +63,12 @@ cardamom and fry for a few seconds.  Add the onions and salt, and cook until the
 onions are soft and starting to caramelize (~15 minutes).  Add the large batch
 of spices from earlier and cook for another minute.  Add the chicken thighs and
 stir to coat them with the onion-spice mixture.  Add the chicken stock, cover,
-and simmer until the chicken is cooked (~30 minutes).  Then uncover and continue
-to simmer so the liquid can thicken a bit more.
+and simmer until the chicken is cooked (~40 minutes).  Then uncover and continue
+to simmer until the liquid has reduced and thickened.
 
 ## Step 4: Cook rice
 
-Make basmati rice.
+Go back in time and make basmati rice.
 
 ## Step 5: Finish it up
 
