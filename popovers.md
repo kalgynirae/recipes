@@ -17,6 +17,6 @@ Remove the pan from the oven and pour a bit of the
 
 * extra melted butter
 
-into each cup. Distribute the batter evenly amonst the cups.
+into each cup. Distribute the batter evenly amongst the cups.
 
 Bake at 450°F for 20 minutes and then at 325°F for 15 minutes.
