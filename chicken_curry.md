@@ -34,7 +34,7 @@ Set these aside for later.
 
 ## Step 2: Make curry
 
-* 4 tbsp ghee
+* 3 tbsp ghee
 * 3 cups yellow onion, diced large
 * 2 tsp minced garlic
 * 1 tsp minced ginger
