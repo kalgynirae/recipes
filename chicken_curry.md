@@ -11,33 +11,31 @@ Serves: 4
 
 ## Step 1: Prepare spices
 
-* 1 tsp fenugreek seeds
-* 3 tsp fennel seeds
+Curry powder:
+
+* 3/4 tsp fenugreek seeds
+* 2 tsp fennel seeds
 * 1 tsp cumin seeds
-* 1/2 tsp cardamom seeds
-
-Toast the seeds briefly and then grind into a powder.
-
-* 1 tsp ground cloves
-* 1/4 tsp cinnamon powder
 * 1.5 tsp turmeric powder
 * 1/2 tsp cayenne powder
-* 1 tsp salt
+* 1/4 tsp savory
 
-Add these to the ground seeds.
+Garam masala:
 
-* 1/2 tsp ground cloves
-* 1/4 tsp nutmeg
-* 1/4 tsp savory (try 1/2?)
-
-Set these aside for later.
+* 1 tsp coriander seeds
+* 1 tsp whole cloves
+* 1/2 tsp cardamom seeds
+* 1/4 tsp cinnamon powder
+* 1/4 tsp ground nutmeg
+* 1/4 tsp ground black pepper (?)
 
 ## Step 2: Make curry
 
 * 3 tbsp ghee
 * 3 cups yellow onion, diced large
+* 1 tsp salt
 * 2 tsp minced garlic
-* 1 tsp minced ginger
+* 2 tsp minced ginger
 * 1.25 cup water or chicken stock
 
 Heat the ghee in a large pot.  Add the onions and cook on medium-low heat for at
@@ -62,6 +60,7 @@ Go back in time and make basmati rice.
 Remove the curry from the heat.
 
 * 1/3 cup heavy cream
+* 1/2 tsp ground cloves
 * 1/4 tsp MSG
 
 Mix these and the spices set aside earlier into the curry.
