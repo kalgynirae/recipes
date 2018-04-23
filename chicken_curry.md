@@ -16,9 +16,8 @@ Curry powder:
 * 3/4 tsp fenugreek seeds
 * 2 tsp fennel seeds
 * 1 tsp cumin seeds
-* 1.5 tsp turmeric powder
+* 2 tsp turmeric powder
 * 1/2 tsp cayenne powder
-* 1/4 tsp savory
 
 Garam masala:
 
@@ -26,8 +25,6 @@ Garam masala:
 * 1 tsp whole cloves
 * 1/2 tsp cardamom seeds
 * 1/4 tsp cinnamon powder
-* 1/4 tsp ground nutmeg
-* 1/4 tsp ground black pepper (?)
 
 ## Step 2: Make curry
 
@@ -61,7 +58,6 @@ Remove the curry from the heat.
 
 * 1/3 cup heavy cream
 * 1/2 tsp ground cloves
-* 1/4 tsp MSG
 
 Mix these and the spices set aside earlier into the curry.
 
