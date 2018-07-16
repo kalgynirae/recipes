@@ -28,24 +28,27 @@ Garam masala:
 
 ## Step 2: Make curry
 
-* 3 tbsp ghee
+* 3 tbsp ghee (4?)
 * 3 cups yellow onion, diced large
 * 1 tsp salt
 * 2 tsp minced garlic
 * 2 tsp minced ginger
-* 1.25 cup water or chicken stock
+* (try lemongrass?)
 
 Heat the ghee in a large pot.  Add the onions and cook on medium-low heat for at
 least 20 minutes, until the onions are very soft.  Add the ginger and garlic and
-cook for a few minutes more.  Add the large batch of spices from earlier and
-cook for another minute or two.
+cook for a few minutes more.  Add the curry powder and 2/3 of the garam masala
+and cook for another minute or two.
 
-Add the water, remove from the heat, and blend into a smooth gravy.
-
-* 1 lb cooked chicken thighs
+* 1.25 cup water or chicken stock
 * 2 tsp lemon juice
 
-Add the chicken and lemon juice to the gravy, bring the gravy to a simmer, and
+Add the water and lemon juice, remove from the heat, and blend into a smooth
+gravy.
+
+* 1 lb cooked chicken thighs
+
+Add the chicken to the gravy, bring the gravy to a simmer, and
 cook until thickened.
 
 ## Step 3: Cook rice
@@ -57,8 +60,8 @@ Go back in time and make basmati rice.
 Remove the curry from the heat.
 
 * 1/3 cup heavy cream
-* 1/2 tsp ground cloves
+* remaining garam masala
 
-Mix these and the spices set aside earlier into the curry.
+Mix these into the curry.
 
 Serve over basmati rice.  Optionally garnish with fresh cilantro.
