@@ -25,7 +25,7 @@ While the beans are boiling, toast and grind
 
 Mix the ground spices with
 
-*   1 tsp asafoetida (hing)
+*   1/8 tsp asafoetida (hing)
 *   1/2 tsp paprika
 *   1/4 tsp ground sumac
 *   1/8 tsp fenugreek powder
@@ -40,6 +40,6 @@ beans.
 
 Add
 
-*   1/4 cup coconut milk.
+*   1/4 cup coconut milk (optional).
 
 Serve alone or over basmati rice.
