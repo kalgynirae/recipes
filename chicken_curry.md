@@ -6,14 +6,14 @@ This curry is my attempt to duplicate the "Chicken Curry" from the Indian
 Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but
 there's still room for improvement.
 
-Time: 25 minutes prep + 30 minutes cooking  
+Time: 60 minutes (25 prep + 35 cooking)
 Serves: 4
 
 ## Step 1: Prepare spices
 
 Curry powder:
 
-* 3/4 tsp fenugreek seeds
+* 1/2 tsp fenugreek seeds
 * 2 tsp fennel seeds
 * 1 tsp cumin seeds
 * 2 tsp turmeric powder
@@ -21,19 +21,18 @@ Curry powder:
 
 Garam masala:
 
-* 1 tsp coriander seeds
-* 1 tsp whole cloves
-* 1/2 tsp cardamom seeds
+* 3/4 tsp coriander seeds
+* 3/4 tsp whole cloves
+* 1/4 tsp cardamom seeds
 * 1/4 tsp cinnamon powder
 
 ## Step 2: Make curry
 
-* 3 tbsp ghee (4?)
+* 4 tbsp ghee
 * 3 cups yellow onion, diced large
 * 1 tsp salt
 * 2 tsp minced garlic
 * 2 tsp minced ginger
-* (try lemongrass?)
 
 Heat the ghee in a large pot.  Add the onions and cook on medium-low heat for at
 least 20 minutes, until the onions are very soft.  Add the ginger and garlic and
