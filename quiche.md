@@ -47,12 +47,11 @@
 
 7.  Slowly pour the egg mixture over the filling.
 
-8.  Bake for 35 minutes at 375°F.
+8.  Bake for 55 minutes at 375°F.
 
 9.  Check before removing the quiche from the oven by grabbing one edge of the
     pan and jiggling it. If the center of the quiche is not almost set, leave it
-    in for another three minutes or so. (Note that it doesn't have to be
-    completely set since it will continue to cook after you remove it from the
-    oven.)
+    in for longer. (Note that it doesn't have to be completely set since it will
+    continue to cook after you remove it from the oven.)
 
 10. Let the quiche sit for about 15 minutes before serving.
