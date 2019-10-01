@@ -15,7 +15,7 @@ Meat filling
 
 * 2 tablespoons canola oil  
 * 1 cup chopped onion  
-* 2 carrots, peeled and diced small  
+* 3 carrots, peeled and diced small  
 * 2 cloves garlic, minced  
 * 1.5 pounds ground beef  
 * 1 teaspoon kosher salt  
