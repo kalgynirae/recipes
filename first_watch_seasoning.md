@@ -1,5 +1,9 @@
-% Seasoning
+% First Watch Seasoning
 % Colin Chan
+
+Based on the First Watch Seasoning from the First Watch Cookbook.
+
+Makes about 2/3 cup of seasoning.
 
 * 5 tsp Diamond Crystal kosher salt
 * 1/2 tsp garlic powder
