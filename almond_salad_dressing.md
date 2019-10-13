@@ -9,8 +9,8 @@
 *   1/4 tsp salt
 *   1/3 cup sunflower or safflower oil
 *   1/3 cup water
-*   1.25 tsp Bragg Liquid Aminos
-*   1/2 tsp rice vinegar (try white wine vinegar?)
+*   1.5 tsp Bragg Liquid Aminos
+*   1/2 tsp rice vinegar
 *   1-2 drops almond extract
 
 Yields roughly 1 cup.
