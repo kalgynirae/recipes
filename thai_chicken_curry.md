@@ -1,6 +1,10 @@
 % Thai Chicken Curry
 % Colin Chan
 
+Time: 1h
+
+Serves: 8
+
 # Acquire
 
 *   1 tbsp coconut oil (or canola or vegetable oil)

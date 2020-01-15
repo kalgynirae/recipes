@@ -22,14 +22,14 @@ Ingredients:
 In a large non-stick pan, heat the unsalted butter over medium heat.  Once hot,
 add the yellow onion, and cook, stirring occasionally, until the onions are
 starting to soften and turn translucent or are starting to brown on the edges
-(about 10 minutes).  Add the garlic and ginger and cook for another 30 seconds.
+(about 15 minutes).  Add the garlic and ginger and cook for another 30 seconds.
 Then add spice jar #1 (the large one), mix well, and cook for 1 minute.  Add the
 diced tomatoes, cook for 3 minutes more, and then add the chickpeas.
 
 Don't forget to make rice if you want rice!
 
 Bring to a simmer, then reduce the heat (maintaining a simmer), cover, and cook
-for about 15 minutes.  Then, remove the cover, add the brown sugar and lemon
+for about 20 minutes.  Then, remove the cover, add the brown sugar and lemon
 juice, and continue to cook until thickened (5–10 minutes).  Remove from the
 heat, add spice jar #2 and the heavy cream, and mix well.
 

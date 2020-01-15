@@ -1,6 +1,10 @@
 % Sugar Cookies and Royal Icing
 % Alton Brown, Colin Chan
 
+Time: ??
+
+Makes: too many cookies
+
 # Cookies
 
 ## Ingredients

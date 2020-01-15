@@ -1,6 +1,10 @@
 % Sweet Potato Casserole
 % Colin Chan
 
+Time: 2h (mostly unattended baking the sweet potatoes)
+
+Serves: 10
+
 # Acquire
 
 *   4 large sweet potatoes
@@ -25,7 +29,7 @@
     the half & half, eggs, sugar, vanilla, cinnamon, and nutmeg. Blend until
     well combined.
 
-4.  Pour the mixture into a dish, and bake it for 15 minutes at 350°F.
+4.  Pour the mixture into a dish, and bake it for 20 minutes at 350°F.
 
 5.  Remove the casserole from the oven. Top it with the brown sugar and mini
     marshmallows.

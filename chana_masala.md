@@ -2,7 +2,9 @@
 % Colin Chan
 % 2015-03-12
 
-Time required: 45 minutes
+Time required: 1 hour
+
+Serves 4
 
 Toast and grind
 
@@ -32,7 +34,7 @@ over medium heat. Once hot, add
 *   a few dried red chilies (omit for non-spicy)
 
 and cook, stirring occasionally, until the onions are starting to soften and
-turn translucent or are starting to brown on the edges (~10 minutes). Add
+turn translucent or are starting to brown on the edges (~15 minutes). Add
 
 *   2 tsp minced garlic
 *   2 tsp minced (or grated) ginger
@@ -50,7 +52,7 @@ Cook for 3 minutes more and add
 
 *   2 cans (15 oz each) chickpeas, one drained, the other not drained
 
-Bring to a simmer, reduce to low heat, cover, and cook for about 15 minutes.
+Bring to a simmer, reduce to low heat, cover, and cook for about 20 minutes.
 Then, remove the cover, add
 
 *   2 tsp brown sugar

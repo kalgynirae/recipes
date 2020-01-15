@@ -1,5 +1,7 @@
 % Popovers
 
+Makes 6 popovers
+
 Mix
 
 * 1.25 cups flour

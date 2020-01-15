@@ -1,6 +1,10 @@
 % Chili
 % Colin Chan
 
+Time: 30m prep, 2h cook (45m active, then simmering)
+
+Serves: 8
+
 # Acquire/Prepare
 
 *   1/4 cup oil (preferably bacon grease)
