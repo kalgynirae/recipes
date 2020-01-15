@@ -1,4 +1,4 @@
-% Monday Krishna Dal
+% Dal
 % Colin Chan
 % 2015-10-24
 
