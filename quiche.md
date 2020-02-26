@@ -1,6 +1,6 @@
-% Quiche
-% Colin Chan
-% 2014-11-22
+---
+title: Quiche
+---
 
 # Acquire:
 

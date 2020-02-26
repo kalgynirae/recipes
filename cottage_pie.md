@@ -1,4 +1,8 @@
-% Cottage Pie
+---
+title: Cottage Pie
+---
+
+This is Alton Brown's recipe but with some modifications.
 
 Potatoes
 --------

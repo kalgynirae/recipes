@@ -1,5 +1,6 @@
-% Chili
-% Colin Chan
+---
+title: Chili
+---
 
 Time: 30m prep, 2h cook (45m active, then simmering)
 

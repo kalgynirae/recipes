@@ -1,5 +1,6 @@
-% Thai Chicken Curry
-% Colin Chan
+---
+title: Thai Chicken Curry
+---
 
 Time: 1h
 

@@ -1,5 +1,9 @@
-% Almond Salad Dressing
-% Krishna Lunch at UF; Colin Chan (minor tweaks)
+---
+title: Almond Salad Dressing
+---
+
+This recipe originally comes from Krishna Lunch at the University of Florida.
+I've tweaked it a little to try to make it taste closer to the original.
 
 # Acquire
 

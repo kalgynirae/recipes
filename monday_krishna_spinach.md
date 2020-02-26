@@ -1,6 +1,6 @@
-% Monday Krishna Spinach
-% Colin Chan
-% 2017-11-26
+---
+title: Monday Krishna Spinach
+---
 
 **DRAFT**
 

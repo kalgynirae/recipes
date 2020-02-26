@@ -1,5 +1,8 @@
-% Calico Beans
-% Ann Titus
+---
+title: Calico Beans
+---
+
+This recipe is from Ann Titus.
 
 Brown:
 

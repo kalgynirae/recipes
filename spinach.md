@@ -1,6 +1,6 @@
-% Spinach
-% Colin Chan, Jonathan Burnett
-% 2014-10-19
+---
+title: Spinach
+---
 
 **THIS RECIPE IS A DRAFT!**
 

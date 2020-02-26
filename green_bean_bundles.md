@@ -1,5 +1,8 @@
-% Green Bean Bundles
-% Ann Titus
+---
+title: Green Bean Bundles
+---
+
+This recipe is from Ann Titus.
 
 Yields 24 bundles.
 

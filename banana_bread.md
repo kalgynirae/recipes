@@ -1,5 +1,6 @@
-% Banana Bread
-% Colin Chan
+---
+title: Banana Bread
+---
 
 # Ingredients
 

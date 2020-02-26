@@ -1,5 +1,6 @@
-% Beef Onion Curry
-% Colin Chan
+---
+title: Beef Onion Curry
+---
 
 **THIS RECIPE IS STILL A DRAFT.**
 

@@ -1,5 +1,9 @@
-% Betty’s Chili
-% Lisa Chan’s mom
+---
+title: Betty’s Chili
+---
+
+This recipe comes from my mom's mom (dunno where it came from before that or if
+it was original).
 
 # Summary
 

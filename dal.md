@@ -1,6 +1,6 @@
-% Dal
-% Colin Chan
-% 2015-10-24
+---
+title: Dal
+---
 
 Time: 45m
 

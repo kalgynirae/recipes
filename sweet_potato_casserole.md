@@ -1,5 +1,6 @@
-% Sweet Potato Casserole
-% Colin Chan
+---
+title: Sweet Potato Casserole
+---
 
 Time: 2h (mostly unattended baking the sweet potatoes)
 

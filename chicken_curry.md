@@ -1,6 +1,6 @@
-% Chicken Curry
-% Colin Chan
-% 2016-12-13
+---
+title: Chicken Curry
+---
 
 This curry is my attempt to duplicate the "Chicken Curry" from the Indian
 Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but

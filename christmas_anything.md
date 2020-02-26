@@ -1,5 +1,6 @@
-% Christmas Anything
-% Colin Chan
+---
+title: Christmas Anything
+---
 
 # Ingredients
 

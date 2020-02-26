@@ -1,5 +1,9 @@
-% Crème Brûlée Cheesecake
-% Colin Chan; Alton Brown
+---
+title: Crème Brûlée Cheesecake
+---
+
+This is Alton Brown's Sour Cream Cheesecake recipe combined with a few Crème
+Brûlée recipes.
 
 # Summary
 

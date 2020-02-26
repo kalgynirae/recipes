@@ -1,5 +1,6 @@
-% Café Chancakes
-% Colin Chan
+---
+title: Café Chancakes
+---
 
 <table>
  <tr style="text-align: left;">

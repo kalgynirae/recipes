@@ -1,5 +1,8 @@
-% Sugar Cookies and Royal Icing
-% Alton Brown, Colin Chan
+---
+title: Sugar Cookies and Royal Icing
+---
+
+I think this is just Alton Brown's recipe? No modifications?
 
 Time: ??
 

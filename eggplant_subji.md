@@ -1,5 +1,6 @@
-% Eggplant Subji (Tuesday Krishna lunch)
-% Colin Chan; Jonathan Burnett
+---
+title: Eggplant Subji (Tuesday Krishna lunch)
+---
 
 *   2 medium gold potatoes (diced)
 *   1 large carrot (diced)

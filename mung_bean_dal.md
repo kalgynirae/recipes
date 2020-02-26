@@ -1,5 +1,6 @@
-% Mung Bean Dal
-% Colin Chan
+---
+title: Mung Bean Dal
+---
 
 Prep time: 1.5 hours
 

@@ -1,4 +1,6 @@
-% Hot Spiced Apple Cider
+---
+title: Hot Spiced Apple Cider
+---
 
 Serves roughly 6.
 

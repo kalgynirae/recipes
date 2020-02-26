@@ -1,5 +1,6 @@
-% {Chocolate Chip} Cookies
-% Colin Chan
+---
+title: "{Chocolate Chip} Cookies"
+---
 
 # Summary
 

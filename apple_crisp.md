@@ -1,5 +1,6 @@
-% Apple Crisp
-% Colin Chan
+---
+title: Apple Crisp
+---
 
 This is a half-recipe. Serves 4?
 

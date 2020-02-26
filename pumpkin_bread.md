@@ -1,5 +1,6 @@
-% Pumpkin Bread
-% Colin Chan
+---
+title: Pumpkin Bread
+---
 
 # Ingredients
 

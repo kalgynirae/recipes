@@ -1,5 +1,8 @@
-% Mac & Cheese
-% Martha Stewart; Colin Chan
+---
+title: Mac & Cheese
+---
+
+This is originally a Martha Stewart recipe but with some modifications.
 
 # Ingredients
 

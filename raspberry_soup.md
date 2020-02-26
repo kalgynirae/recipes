@@ -1,5 +1,6 @@
-% Chilled Raspberry Soup
-% unknown; Colin Chan
+---
+title: Chilled Raspberry Soup
+---
 
 **This recipe is still a draft.**
 

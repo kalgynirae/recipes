@@ -1,6 +1,6 @@
-% Tuesday Krishna (DRAFT)
-% Colin Chan
-
+---
+title: Tuesday Krishna (DRAFT)
+---
 
 * 1 large eggplant, diced
 * 1 large zucchini, diced

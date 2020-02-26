@@ -1,5 +1,6 @@
-% First Watch Seasoning
-% Colin Chan
+---
+title: First Watch Seasoning
+---
 
 Based on the First Watch Seasoning from the First Watch Cookbook.
 

@@ -1,6 +1,6 @@
-% Chana Masala
-% Colin Chan
-% 2015-03-12
+---
+title: Chana Masala
+---
 
 Time required: 1 hour
 
