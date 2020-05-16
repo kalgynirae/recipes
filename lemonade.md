@@ -6,16 +6,16 @@ Juice some lemons, then scale this to the amount of juice. 1 cup of juice makes 
 
 <table>
   <tr>
-    <td colspan=1>1× hot water</td>
-    <td rowspan=2>dissolve</td>
+    <td colspan=2>1× lemon juice</td>
     <td rowspan=4>mix</td>
     <td rowspan=7>pour</td>
   </tr>
   <tr>
-    <td colspan=1>1× granulated sugar</td>
+    <td colspan=1>1× hot water</td>
+    <td rowspan=2>dissolve</td>
   </tr>
   <tr>
-    <td colspan=2>1× lemon juice</td>
+    <td colspan=1>0.75× granulated sugar</td>
   </tr>
   <tr>
     <td colspan=2>1.5× cool water</td>
