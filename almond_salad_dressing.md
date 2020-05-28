@@ -8,14 +8,14 @@ I've tweaked it a little to try to make it taste closer to the original.
 # Acquire
 
 *   1/4 cup powdered almonds
-*   1/4 cup nutritional yeast
+*   1/4 cup nutritional yeast (currently I'm using [Anthony's brand])
 *   1/12 tsp asafoetida powder
 *   1/2 tsp table salt
 *   1/3 cup sunflower or safflower oil
 *   1/3 cup water
 *   1.25 tsp Bragg Liquid Aminos
 *   1/4 tsp rice vinegar
-*   1-2 drops almond extract (if you like that fake almond flavor)
+*   1-2 drops almond extract (if you like that extra almond flavor)
 
 Yields roughly 1 cup.
 
@@ -27,3 +27,5 @@ Yields roughly 1 cup.
     extra water and blend briefly. Repeat if necessary. (Remember that it will
     thicken with refrigeration.)
 2.  Refrigerate for at least 2 hours.
+
+[Anthony's brand]: https://www.amazon.com/dp/B07JVLCGYX/
