@@ -21,6 +21,7 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
     <td rowspan=5>mix</td>
     <td rowspan=9>mix</td>
     <td rowspan=11>mix</td>
+    <td rowspan=11>refrigerate overnight</td>
     <td rowspan=11>bake at 400°F for ~18 minutes</td>
   </tr>
   <tr>
