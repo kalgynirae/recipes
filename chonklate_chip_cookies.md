@@ -50,7 +50,7 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
     <td>6 g salt</td>
   </tr>
   <tr>
-    <td>1 lb dark chocolate</td>
+    <td>9 oz dark chocolate</td>
     <td colspan=3>chop</td>
   </tr>
   <tr>
