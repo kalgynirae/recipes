@@ -22,6 +22,7 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
     <td rowspan=9>mix</td>
     <td rowspan=11>mix</td>
     <td rowspan=11>refrigerate overnight</td>
+    <td rowspan=11>form 95 g balls</td>
     <td rowspan=11>bake at 400°F for ~18 minutes</td>
   </tr>
   <tr>
@@ -47,11 +48,11 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
     <td>1/2 tsp baking soda</td>
   </tr>
   <tr>
-    <td>6 g salt</td>
+    <td>1 tsp (6.5 g) table salt</td>
   </tr>
   <tr>
     <td>9 oz dark chocolate</td>
-    <td colspan=3>chop</td>
+    <td colspan=3>chop coarsely</td>
   </tr>
   <tr>
     <td>120 g walnuts</td>
