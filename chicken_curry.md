@@ -6,7 +6,7 @@ This curry is my attempt to duplicate the "Chicken Curry" from the Indian
 Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but
 there's still room for improvement.
 
-Time: 60 minutes (25 prep + 35 cooking)
+Time: 60 minutes (25 prep + 35 cooking)  
 Serves: 4
 
 ## Step 0
