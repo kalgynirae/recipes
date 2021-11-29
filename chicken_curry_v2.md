@@ -44,6 +44,9 @@ Add these to the earlier spices, and set the mixture aside for later.
 
 ## Base gravy
 
+NOTE: This will make enough gravy for two batches of curry. Freeze one for
+later!
+
 * 1/2 cup oil
 * 1 kg onion, sliced
 
@@ -86,10 +89,11 @@ Fry for a few minutes.
 
 Add and fry for a minute more.
 
-* 4 cups base gravy
-* 3/4 tsp table salt
+* 3 cups base gravy
+* 1/2 tsp table salt (maybe a little more, was previously 3/4 tsp)
 * 1 Tbsp lemon juice
 * 1.5 lb cooked dark-meat chicken
+* 1/2 tsp ground fenugreek leaves
 * 1/4 cup heavy cream
 
 Add these and continue to heat until warm.
