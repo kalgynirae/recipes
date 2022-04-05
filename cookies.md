@@ -2,6 +2,9 @@
 title: "{Chocolate Chip} Cookies"
 ---
 
+Prep time: 30 minutes + overnight refrigeration  
+Bake time: 45–60 minutes (assuming 3–4 batches)
+
 # Summary
 
 <table>
@@ -73,8 +76,6 @@ title: "{Chocolate Chip} Cookies"
 
 # Procedure
 
-Preheat your oven to 385°F.
-
 Carefully warm the butter and Crisco in a microwave, just enough that the butter
 is partially melted. Add the sugars and mix thoroughly, making sure to break up
 any clumps of sugar. Add the vanilla and maple extracts and mix. Add the eggs
@@ -85,10 +86,12 @@ Gradually mix this into the wet mixture. If you don't mind eating small amounts
 of raw egg, taste the dough and add extra salt if needed. Mix in the chocolate
 chips. (It will be a *lot* of chocolate chips!)
 
-Line a cookie sheet with parchment paper or a silicone baking mat. Form the
-dough into 1-inch balls. Ideally, get as many chocolate chips as possible into
-each ball (but not so many that the ball falls apart on the cookie sheet).
-dough approximately 1 inch in diameter and place them on a cookie sheet. Bake for
-10–12 minutes, until the cookies are just starting to turn golden. Let the
-cookies cool on the cookie sheet for a few minutes and then on a cooling rack
-until cool.
+Refrigerate the cookie dough for at least 12 hours.
+
+Preheat your oven to 385°F. Line a cookie sheet with parchment paper or a
+silicone baking mat. Form the dough into 1-inch balls. Ideally, get as many
+chocolate chips as possible into each ball (but not so many that the ball falls
+apart on the cookie sheet). dough approximately 1 inch in diameter and place
+them on a cookie sheet. Bake for 10–12 minutes, until the cookies are just
+starting to turn golden. Let the cookies cool on the cookie sheet for a few
+minutes and then on a cooling rack until cool.
