@@ -16,7 +16,7 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
 
 <table>
   <tr style="text-align: left;">
-    <td>1.25 c butter</td>
+    <td>1.25 c unsalted butter</td>
     <td>melt</td>
     <td rowspan=5>mix</td>
     <td rowspan=9>mix</td>
