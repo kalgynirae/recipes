@@ -15,6 +15,7 @@ for 20 minutes. Drain and place them in a medium pot with
 * 2 cups water
 * 1 tbsp lemon juice
 * 1/2 tsp turmeric
+* 1 bay leaf
 * 1/2 cup diced golden apple (optional)
 * 1/4 cup apple juice (optional)
 * 1/6 cup unsweetened coconut flakes (optional)
