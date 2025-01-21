@@ -15,7 +15,7 @@ ago.
 *   1/4 tsp table salt
 *   1/2 cup sunflower or safflower oil
 *   2/3 cup water
-*   1.33 Tbsp Bragg Liquid Aminos
+*   1.5 Tbsp Bragg Liquid Aminos
 *   1 tsp rice vinegar
 
 <!---->
