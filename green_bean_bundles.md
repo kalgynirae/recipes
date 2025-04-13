@@ -2,11 +2,13 @@
 title: Green Bean Bundles
 ---
 
+# Green Bean Bundles
+
 This recipe is from Ann Titus.
 
 Yields 24 bundles.
 
-# Ingredients
+## Ingredients
 
 *   4 cans whole green beans (not cut)
 *   1 lb bacon
@@ -15,7 +17,7 @@ Yields 24 bundles.
 *   garlic salt
 *   pepper
 
-# Procedure
+## Method
 
 Roll 16 green beans in 1/2 slice of bacon. Secure with a toothpick.
 

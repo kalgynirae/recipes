@@ -2,6 +2,8 @@
 title: Monday Krishna Spinach
 ---
 
+# Monday Krishna Spinach
+
 **DRAFT**
 
 Serves 6?

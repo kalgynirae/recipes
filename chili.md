@@ -2,11 +2,19 @@
 title: Chili
 ---
 
+# Chili
+
+<aside>
+
+A **vegan version** of this recipe is available: [Café Chan Vegan Chili (hyperchef)](https://www.hyperchef.net/recipes/cafe-chan-vegan-chili/)
+
+</aside>
+
 Time: 30m prep, 2h cook (45m active, then simmering)
 
 Serves: 8
 
-# Acquire/Prepare
+## Ingredients & Prep
 
 *   1/4 cup oil (preferably bacon grease)
 *   1.5–2 lb ground beef
@@ -36,7 +44,7 @@ Serves: 8
 *   1 tsp instant coffee (optional)
 *   splash of vinegar (optional)
 
-# Cook
+## Method
 
 1.  Add just enough oil to coat the bottom of the pan.
 1.  Brown the meat, then remove with a slotted spoon and set aside.

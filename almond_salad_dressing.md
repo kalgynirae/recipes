@@ -2,6 +2,8 @@
 title: Almond Salad Dressing
 ---
 
+# Almond Salad Dressing
+
 This recipe originally came from [Krishna Lunch] at the University of Florida,
 but I’ve added vinegar and tweaked the amounts slightly to try to achieve a
 taste closer to what I remember from eating Krishna Lunch many years ago.

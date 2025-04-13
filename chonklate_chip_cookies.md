@@ -2,6 +2,8 @@
 title: "Chonklate Chip Cookies"
 ---
 
+# Chonklate Chip Cookies
+
 <aside class=important>
 
 Recipe status: **DRAFT**

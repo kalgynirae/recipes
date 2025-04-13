@@ -2,10 +2,12 @@
 title: Betty’s Chili
 ---
 
-This recipe comes from my mom's mom (dunno where it came from before that or if
+# Betty’s Chili
+
+This recipe comes from my mom’s mom (dunno where it came from before that or if
 it was original).
 
-# Summary
+## Summary
 
 <table>
  <tr style="text-align: left;">
@@ -39,7 +41,7 @@ it was original).
  </tr>
 </table>
 
-# Ingredients
+## Ingredients
 
 *   2 Tbls Crisco or vegetable oil
 *   1 lb ground beef

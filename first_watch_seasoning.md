@@ -2,6 +2,8 @@
 title: First Watch Seasoning
 ---
 
+# First Watch Seasoning
+
 Based on the First Watch Seasoning from the First Watch Cookbook.
 
 Makes about 2/3 cup of seasoning.

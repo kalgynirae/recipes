@@ -2,9 +2,10 @@
 title: Shortbread Cookies
 ---
 
+# Shortbread Cookies
 Makes 24 cookies.
 
-# Ingredients
+## Ingredients
 
 * 1 cup butter, softened
 * 1/2 cup sugar
@@ -12,7 +13,7 @@ Makes 24 cookies.
 * 1/3 cup pecan halves (optional)
 * 1/3 cup powdered sugar
 
-# Directions
+## Method
 
 Cream the butter and sugar. Add flour and mix well. Refrigerate dough for at
 least 20 minutes. Form into 1-inch balls. Flatten slightly.  Press a pecan half

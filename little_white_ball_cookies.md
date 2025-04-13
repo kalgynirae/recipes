@@ -2,6 +2,8 @@
 title: Little White Ball Cookies (LWBC)
 ---
 
+# Little White Ball Cookies
+
 This recipe is from Mrs. Ferreirae.
 
 Makes 36 cookies.

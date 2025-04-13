@@ -5,7 +5,7 @@ title: Crème Brûlée Cheesecake
 This is Alton Brown's Sour Cream Cheesecake recipe combined with a few Crème
 Brûlée recipes.
 
-# Summary
+## Summary
 
 <table>
  <tr>
@@ -61,11 +61,13 @@ Brûlée recipes.
  </tr>
 </table>
 
-# Acquire
+## Ingredients
 
 *   26 graham cracker squares, crumbled
 *   0.83 sticks of butter, melted
 *   1 tablespoon sugar
+
+<!---->
 
 *   5 egg yolks and 1.5 egg whites
 *   1 tablespoon vanilla extract
@@ -74,16 +76,18 @@ Brûlée recipes.
 *   20 oz cream cheese (Neufchâtel or 1/3 fat kind works well)
 *   1 cup sugar
 
+<!---->
+
 *   1/3 cup sugar (for carmelizing)
 
-# Prepare
+## Prepare
 
 This recipe takes about 40 minutes to prepare, 2 hours to bake, and 5 or 6
 hours in the refrigerator.
 
 I usually make this in a 13"×9" glass pan.
 
-## The crust
+### The crust
 
 Preheat an oven to 300°F. Brush a little melted butter on the bottom and
 sides of the cheesecake pan.
@@ -93,14 +97,14 @@ into bottom of the pan. (Use a flat-bottomed glass cup filled with weights to
 help with the pressing.) Bake the crust for 10 minutes, and then set aside to
 cool.
 
-## The water bath
+### The water bath
 
 Prepare a water bath for the cheesecake pan. For this you need a pan with tall
 sides that is large enough to hold your cheesecake pan. Fill it about half-way
 with water (but not so much that water will spill over the edges when you set
 the cheesecake pan in). Place this in the oven to preheat.
 
-## The filling
+### The filling
 
 Combine the eggs, vanilla, and heavy cream, and set aside.
 
@@ -112,19 +116,19 @@ mixture until the rest of the ingredients are incorporated, stopping to scrape
 the sides of the bowl occasionally. Once completely combined, pour into the
 cooled crust.
 
-# Bake
+## Bake
 
 Lower the oven temperature to 250°F, and place the cheesecake into your
 preheated water bath in the oven. Bake for 1 hour, and then turn the oven off.
 Open the door for 45 seconds to let out some of the heat, and then close the door
 for one more hour.
 
-# Refrigerate
+## Refrigerate
 
 Remove the cheesecake from the water bath and place it in the refrigerator for
 about 6 hours to chill completely.
 
-# Serve
+## Serve
 
 Just prior to serving, sprinkle sugar onto the cheesecake and carmelize using a
 torch. (Reference a crème brûlée recipe for more details.) Serve and enjoy!

@@ -2,6 +2,8 @@
 title: Apple Crisp
 ---
 
+# Apple Crisp
+
 This is a half-recipe. Serves 4?
 
 ## Apple

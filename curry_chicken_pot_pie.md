@@ -2,8 +2,10 @@
 title: Curry Chicken Pot Pie
 ---
 
+# Curry Chicken Pot Pie
+
 Makes an amount of filling that is good for filling a typical 13-by-9-inch
-baking dish.  Adjust accordingly.
+baking dish. Adjust accordingly.
 
 <table>
   <tr>

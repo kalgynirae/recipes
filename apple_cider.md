@@ -2,6 +2,8 @@
 title: Hot Spiced Apple Cider
 ---
 
+# Hot Spiced Apple Cider
+
 Serves roughly 6.
 
 Place the following in a large pot:

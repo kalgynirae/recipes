@@ -2,15 +2,17 @@
 title: Sugar Cookies and Royal Icing
 ---
 
+# Sugar Cookies and Royal Icing
+
 I think this is just Alton Brown's recipe? No modifications?
 
 Time: ??
 
 Makes: too many cookies
 
-# Cookies
+## Cookies
 
-## Ingredients
+### Ingredients
 
 *   3 cups all-purpose flour
 *   3/4 teaspoon baking powder
@@ -21,7 +23,7 @@ Makes: too many cookies
 *   1 tablespoon milk
 *   powdered sugar, for rolling out dough
 
-## Directions
+### Directions
 
 Sift together flour, baking powder, and salt. Set aside. Place butter
 and sugar in large bowl of electric stand mixer and beat until light in
@@ -44,15 +46,15 @@ time (use a spatula!). Bake for 7 to 9 minutes or until the cookies are
 just beginning to turn brown around the edges. Let the cookies sit on
 the baking sheet for 2 minutes, and then move them to a wire rack.
 
-# Icing
+## Icing
 
-## Ingredients
+### Ingredients
 
 *   3 ounces pasteurized egg whites (~{2.5 large eggs}' worth?)
 *   1 teaspoon vanilla extract
 *   4 cups confectioners' sugar
 
-## Directions
+### Directions
 
 In a stand mixer, combine the egg whites and vanilla, and beat until
 frothy. Gradually add the confectioners' sugar, and mix on low speed

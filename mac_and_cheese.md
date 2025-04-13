@@ -2,9 +2,11 @@
 title: Mac & Cheese
 ---
 
+# Mac & Cheese
+
 This is originally a Martha Stewart recipe but with some modifications.
 
-# Ingredients
+## Ingredients
 
 *   5 cups milk
 *   6 tbsp unsalted butter
@@ -17,7 +19,7 @@ This is originally a Martha Stewart recipe but with some modifications.
 *   8 oz grated Gruyère or Asiago or Pecorino Romano
 *   1.25 lb ditalini
 
-# Procedure
+## Method
 
 1.  Preheat oven to 375°F.
 2.  Warm the milk in a medium saucepan over medium heat.

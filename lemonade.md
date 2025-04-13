@@ -2,6 +2,8 @@
 title: Lemonade
 ---
 
+# Lemonade
+
 Juice some lemons, then scale this to the amount of juice. 1 cup of juice makes about 6 cups of lemonade (assuming you pretty much completely fill the cups with ice before pouring in the lemonade, which *is* recommended).
 
 <table>

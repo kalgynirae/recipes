@@ -2,6 +2,8 @@
 title: Café Chancakes
 ---
 
+# Café Chancakes
+
 <table>
  <tr style="text-align: left;">
    <td>160 g flour</td>
@@ -36,7 +38,7 @@ title: Café Chancakes
  </tr>
 </table>
 
-# What to have?
+## Ingredients
 
 *   160 g all-purpose flour
 *   2 Tbsp malted milk powder
@@ -57,7 +59,7 @@ title: Café Chancakes
 *   chocolate chips (optional)
 *   banana, sliced (optional)
 
-# What to do with it?
+## Method
 
 Measure the flour, malted milk powder, baking powder, baking soda, and salt into
 a bowl. Set it aside.

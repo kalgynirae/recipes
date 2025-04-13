@@ -2,6 +2,8 @@
 title: Dal
 ---
 
+# Dal
+
 Time: 45m
 
 Serves: 4

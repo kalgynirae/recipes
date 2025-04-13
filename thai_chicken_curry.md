@@ -2,11 +2,13 @@
 title: Thai Chicken Curry
 ---
 
+# Thai Chicken Curry
+
 Time: 1h
 
 Serves: 8
 
-# Acquire
+## Ingredients
 
 *   1 tbsp coconut oil (or canola or vegetable oil)
 *   1 can curry paste (I like the one that says "Yellow curry paste")
@@ -18,12 +20,12 @@ Serves: 8
 *   other vegetables (optional)
 *   ginger powder (optional; fresh ginger would be better)
 
-# Prepare
+## Prep
 
 1.  Dice the chicken, potatoes, and carrots.
 2.  Cut the green beans (if they are too long?).
 
-# Cook
+## Method
 
 1.  Heat the coconut oil in a very large pan.
 2.  Add the curry paste and fry for three minutes.

@@ -2,11 +2,13 @@
 title: Sweet Potato Casserole
 ---
 
+# Sweet Potato Casserole
+
 Time: 2h (mostly unattended baking the sweet potatoes)
 
 Serves: 10
 
-# Acquire
+## Ingredients
 
 *   4 large sweet potatoes
 *   1/2 cup sugar
@@ -19,7 +21,7 @@ Serves: 10
 *   1/4 cup brown sugar
 *   1/2 bag mini marshmallows
 
-# Prepare
+## Method
 
 1.  Wrap the sweet potatoes in foil and bake them for 1 hour in a 400°F oven.
 

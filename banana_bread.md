@@ -2,9 +2,11 @@
 title: Banana Bread
 ---
 
-# Ingredients
+# Banana Bread
 
-## Wet
+## Ingredients
+
+### Wet
 
 * 3-4 overripe bananas
 * 1/4 cup butter, softened
@@ -14,7 +16,7 @@ title: Banana Bread
 * 1 tsp vanilla extract
 * 1 tsp almond extract (optional)
 
-## Dry
+### Dry
 
 * 210 g (1 3/4 cups) all-purpose flour
 * 1 tsp baking soda
@@ -23,7 +25,7 @@ title: Banana Bread
 * 1/2 tsp cinnamon powder
 * 1/2 tsp ground cloves
 
-# Procedure
+## Method
 
 Preheat an oven to 350°F.
 

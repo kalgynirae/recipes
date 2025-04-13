@@ -2,6 +2,8 @@
 title: Beef Onion Curry
 ---
 
+# Beef Onion Curry
+
 **THIS RECIPE IS STILL A DRAFT.**
 
 Start by toasting

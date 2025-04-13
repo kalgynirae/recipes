@@ -2,10 +2,12 @@
 title: "{Chocolate Chip} Cookies"
 ---
 
+# {Chocolate Chip} Cookies
+
 Prep time: 30 minutes + overnight refrigeration  
 Bake time: 45–60 minutes (assuming 3–4 batches)
 
-# Summary
+## Summary
 
 <table>
  <tr style="text-align: left;">
@@ -53,7 +55,7 @@ Bake time: 45–60 minutes (assuming 3–4 batches)
  </tr>
 </table>
 
-# Ingredients
+## Ingredients
 
 *   1/2 cup unsalted butter
 *   1/2 cup Crisco (vegetable shortening)
@@ -74,7 +76,7 @@ Bake time: 45–60 minutes (assuming 3–4 batches)
 
 *   14 oz (2.5? cups) semi-sweet chocolate chips
 
-# Procedure
+## Method
 
 Carefully warm the butter and Crisco in a microwave, just enough that the butter
 is partially melted. Add the sugars and mix thoroughly, making sure to break up

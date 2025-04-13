@@ -2,6 +2,8 @@
 title: Mung Bean Dal
 ---
 
+# Mung Bean Dal
+
 Prep time: 1.5 hours
 
 Rinse, as necessary,

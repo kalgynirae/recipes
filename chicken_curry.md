@@ -2,6 +2,14 @@
 title: Chicken Curry
 ---
 
+# Chicken Curry
+
+<aside class=important>
+
+**There is a newer version of this recipe:** [Chicken Curry v2 (hyperchef)](https://www.hyperchef.net/recipes/chicken-curry-v2/).
+
+</aside>
+
 This curry is my attempt to duplicate the "Chicken Curry" from the Indian
 Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but
 there's still room for improvement.

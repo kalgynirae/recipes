@@ -2,6 +2,8 @@
 title: Tuesday Krishna (DRAFT)
 ---
 
+# Tuesday Krishna (DRAFT)
+
 * 1 large eggplant, diced
 * 1 large zucchini, diced
 * 2 cups sliced mushrooms

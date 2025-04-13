@@ -2,6 +2,8 @@
 title: Salmon Pate
 ---
 
+# Salmon Pate
+
 Recipe by Helen Rennie: https://www.youtube.com/watch?v=GuUVu36CMtE
 
 * 1 lb salmon fillet, cooked

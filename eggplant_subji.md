@@ -2,6 +2,14 @@
 title: Eggplant Subji (Tuesday Krishna lunch)
 ---
 
+# Eggplant Subji
+
+<aside class=important>
+
+Recipe status: **draft**
+
+</aside>
+
 *   2 medium gold potatoes (diced)
 *   1 large carrot (diced)
 *   4 tbsp butter

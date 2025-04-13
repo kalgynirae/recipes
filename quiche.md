@@ -2,7 +2,9 @@
 title: Quiche
 ---
 
-# Acquire:
+# Quiche
+
+## Ingredients
 
 *   9-inch pie pan, at least 1.5in deep
 *   1 pie crust (they come in a box of two, rolled up and individually wrapped)
@@ -27,7 +29,7 @@ title: Quiche
 *   1/4 tsp salt
 *   1/2 cup shredded parmesan and/or cheddar cheese
 
-# Do:
+# Method
 
 1.  Preheat an oven to 375°F.
 

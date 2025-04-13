@@ -2,6 +2,8 @@
 title: Asparagus Mushroom Soup
 ---
 
+# Asparagus Mushroom Soup
+
 Time: 15 minutes prep + 30 minutes cooking\
 Serves: 4–6
 

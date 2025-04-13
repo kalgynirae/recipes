@@ -2,10 +2,11 @@
 title: Cottage Pie
 ---
 
+# Cottage Pie
+
 This is Alton Brown's recipe but with some modifications.
 
-Potatoes
---------
+## Potatoes
 
 * 1.5 pounds russet potatoes  
 * 1/4 cup half-and-half  
@@ -14,8 +15,7 @@ Potatoes
 * 1/4 teaspoon freshly ground black pepper  
 * 1 egg yolk
 
-Meat filling
-------------
+## Meat filling
 
 * 2 tablespoons canola oil  
 * 1 cup chopped onion  
@@ -33,8 +33,7 @@ Meat filling
 * 1/2 cup fresh or frozen corn kernels  
 * 1/2 cup fresh or frozen English peas
 
-Directions
-----------
+## Directions
 
 Peel the potatoes and cut into 1/2-inch dice. Place in a medium saucepan
 and cover with cold water. Set over high heat, cover and bring to a

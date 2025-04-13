@@ -2,6 +2,8 @@
 title: Chana Masala (with spice kit)
 ---
 
+# Chana Masala
+
 Prep time: 10 minutes? (chop onion, garlic, ginger; open cans)  
 Cooking time: 45 minutes
 

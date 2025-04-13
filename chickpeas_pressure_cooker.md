@@ -1,3 +1,9 @@
+---
+title: Chickpeas (pressure cooker)
+---
+
+# Chickpeas
+
 * 24 oz chickpeas
 * 8 cups water
 * 2 Tbsp Diamond Crystal kosher salt

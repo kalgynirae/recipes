@@ -2,6 +2,8 @@
 title: Spinach
 ---
 
+# Spinach
+
 **THIS RECIPE IS A DRAFT!**
 
 Purée the following:

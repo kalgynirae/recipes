@@ -2,9 +2,11 @@
 title: Chicken Curry v2
 ---
 
+# Chicken Curry v2
+
 <aside class=important>
 
-Recipe status: **DRAFT**
+**There is a newer version of this recipe:** [Chicken Curry v2 (hyperchef)](https://www.hyperchef.net/recipes/chicken-curry-v2/).
 
 </aside>
 

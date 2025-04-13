@@ -2,7 +2,9 @@
 title: Pumpkin Bread
 ---
 
-# Ingredients
+# Pumpkin Bread
+
+## Ingredients
 
 *   230 g (1.75 cup) flour
 *   1 tsp baking soda
@@ -22,7 +24,7 @@ title: Pumpkin Bread
 *   1/3 cup canola oil
 *   1 can (15 oz) pumpkin
 
-# Procedure
+## Method
 
 Preheat an oven to 325°F.
 

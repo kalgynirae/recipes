@@ -2,6 +2,8 @@
 title: Chana Masala
 ---
 
+# Chana Masala
+
 Time required: 1 hour
 
 Serves 4
