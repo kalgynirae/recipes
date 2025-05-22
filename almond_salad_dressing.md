@@ -10,15 +10,15 @@ taste closer to what I remember from eating Krishna Lunch many years ago.
 
 ## Ingredients
 
-*   45g almonds (1/2 cup powdered or a loosely-packed 1/3 cup whole)
+*   42g almonds (1/2 cup powdered or a loosely-packed 1/3 cup whole)
 *   25g nutritional yeast (1/3 cup, I like [Anthony’s])
 *   1/8 tsp [asafetida powder]
 *   1/4 tsp table salt
-*   1/2 cup sunflower or safflower oil
+*   2/3 cup sunflower or safflower oil
 *   2/3 cup water
-*   1.25 Tbsp Bragg Liquid Aminos (or soy sauce, or Bragg Coconut Liquid Aminos to avoid soy)
-*   1.5 tsp white wine vinegar
-*   1/8 tsp almond extract (optional)
+*   1.33 Tbsp Bragg Liquid Aminos (or soy sauce, or Bragg Coconut Liquid Aminos to avoid soy)
+*   2 tsp white wine vinegar
+*   1/8 tsp almond extract
 
 Yields roughly 1.5 cups (~10 servings).
 
