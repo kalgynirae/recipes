@@ -4,67 +4,45 @@ title: Café Chancakes
 
 # Café Chancakes
 
-<table>
+<table class=recipe>
  <tr style="text-align: left;">
-   <td>160 g flour</td>
+   <td><i>160 g</i> all-purpose flour</td>
    <td rowspan=5>mix</td>
-   <td rowspan=9>mix</td>
-   <td rowspan=9>make pancakes</td>
+   <td rowspan=12>mix</td>
+   <td rowspan=12>make pancakes</td>
  </tr>
  <tr>
-   <td>2 Tbsp malted milk</td>
+   <td><i>2 Tbsp</i> malted milk</td>
  </tr>
  <tr>
-   <td>1.25 tsp baking powder</td>
+   <td><i><span class=mixed-number>1 1⁄4</span> tsp</i> baking powder</td>
  </tr>
  <tr>
-   <td>1/2 tsp baking soda</td>
+   <td><i>1⁄2 tsp</i> baking soda</td>
  </tr>
  <tr>
-   <td>1 tsp salt</td>
+   <td><i>1 tsp</i> salt</td>
  </tr>
  <tr>
-   <td>2 eggs</td>
+   <td><i>2</i> eggs</td>
    <td rowspan=4>mix</td>
  </tr>
  <tr>
-   <td>1 Tbsp sugar</td>
+   <td><i>1 Tbsp</i> sugar</td>
  </tr>
  <tr>
-   <td>3 Tbsp oil</td>
+   <td><i>3 Tbsp</i> oil</td>
  </tr>
  <tr>
-   <td>1+ cup milk</td>
+   <td><i>1+ cup</i> milk</td>
+ </tr>
+ <tr>
+   <td colspan=2>butterscotch chips (optional)</td>
+ </tr>
+ <tr>
+   <td colspan=2>chocolate chips (optional)</td>
+ </tr>
+ <tr>
+   <td colspan=2>banana, sliced (optional)</td>
  </tr>
 </table>
-
-## Ingredients
-
-*   160 g all-purpose flour
-*   2 Tbsp malted milk powder
-*   1.25 tsp baking powder
-*   1/2 tsp baking soda
-*   1 tsp salt
-
-<!---->
-
-*   2 large eggs
-*   1 Tbsp sugar
-*   3 Tbsp canola oil (or butter)
-*   1–1.25 cups whole milk (start with 1, add more if needed)
-
-<!---->
-
-*   butterscotch chips (optional)
-*   chocolate chips (optional)
-*   banana, sliced (optional)
-
-## Method
-
-Measure the flour, malted milk powder, baking powder, baking soda, and salt into
-a bowl. Set it aside.
-
-In a separate bowl, whisk the eggs, sugar, oil, and milk. Add the dry
-ingredients, and mix well (making sure any large clumps are destroyed).
-
-Use the batter to make pancakes, adding in the optional ingredients as desired.

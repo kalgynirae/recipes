@@ -2,62 +2,63 @@
 title: Crème Brûlée Cheesecake
 ---
 
-This is Alton Brown's Sour Cream Cheesecake recipe combined with a few Crème
-Brûlée recipes.
+# Crème Brûlée Cheesecake
+
+This recipe is a mix between Alton Brown’s [Sour Cream Cheesecake] and a few different crème
+brûlée recipes.
+
+[Sour Cream Cheesecake]: https://altonbrown.com/recipes/sour-cream-cheesecake/
 
 ## Summary
 
-<table>
+<table class=recipe>
  <tr>
-   <td colspan="11">Preheat oven to 300°F</td>
- </tr>
- <tr style="text-align: left;">
-   <td>26 graham cr. sq.</td>
+   <td><i>26</i> graham cracker squares</td>
    <td>crumble</td>
    <td rowspan="3">mix</td>
    <td rowspan="3">press into pan</td>
-   <td rowspan="3">bake 10 min</td>
+   <td rowspan="3">bake at 300°F for 10 min</td>
    <td rowspan="3">cool</td>
    <td rowspan="10">pour into</td>
-   <td rowspan="10">bake<br> 1 hr</td>
+   <td rowspan="10">bake at 250°F for 1 hr</td>
    <td rowspan="10">sit<br> 1 hr</td>
    <td rowspan="10">chill<br> 6 hr</td>
    <td rowspan="11">top and<br> carmelize</td>
  </tr>
  <tr>
-   <td>0.83 sticks butter</td>
+   <td><i>7 Tbsp</i> butter</td>
    <td>melt</td>
  </tr>
  <tr>
-   <td colspan="2">1 tbsp sugar</td>
+   <td colspan="2"><i>1 Tbsp</i> sugar</td>
  </tr>
  <tr>
-   <td>5 egg yolks</td>
+   <td><i>5 egg</i> yolks</td>
    <td rowspan="4" colspan="2">mix</td>
    <td rowspan="7" colspan="3">slowly mix</td>
  </tr>
  <tr>
-   <td>1.5 egg whites</td>
+   <td><i><span class=mixed-number>1 1⁄2</span> egg</i> whites</td>
  </tr>
  <tr>
-   <td>1 tbsp vanilla ex.</td>
+   <td><i>1 Tbsp</i> vanilla extract</td>
  </tr>
  <tr>
-   <td>2/3 c heavy cream</td>
+   <td><i>2⁄3 cup</i> heavy cream</td>
  </tr>
  <tr>
-   <td>1 c sour cream</td>
+   <td><i>1 cup</i> sour cream</td>
    <td>beat 10 sec</td>
    <td rowspan="3">mix</td>
  </tr>
  <tr>
-   <td colspan="2">20 oz cream cheese</td>
+   <td colspan="2"><i>20 oz</i> cream cheese</td>
  </tr>
  <tr>
-   <td colspan="2">1 c sugar</td>
+   <td colspan="2"><i>1 cup</i> sugar</td>
  </tr>
  <tr>
-   <td colspan="10">1/3 c sugar</td>
+   <td colspan="10"><i>1⁄3 cup</i> sugar</td>
  </tr>
 </table>
 
@@ -85,7 +86,7 @@ Brûlée recipes.
 This recipe takes about 40 minutes to prepare, 2 hours to bake, and 5 or 6
 hours in the refrigerator.
 
-I usually make this in a 13"×9" glass pan.
+I usually make this in a 13″×9″ glass pan.
 
 ### The crust
 

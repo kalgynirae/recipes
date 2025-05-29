@@ -6,7 +6,41 @@ title: Almond Salad Dressing
 
 This recipe originally came from [Krishna Lunch] at the University of Florida,
 but I’ve added vinegar and tweaked the amounts slightly to try to achieve a
-taste closer to what I remember from eating Krishna Lunch many years ago.
+taste closer to what I remember from Krishna Lunch many years ago.
+
+Makes roughly 1.5 cups (~10 servings).
+
+<table class=recipe>
+ <tr>
+  <td><i>42 g</i> almonds</td>
+  <td rowspan=9>blend until smooth, adding water if too thick</td>
+  <td rowspan=9>refrigerate overnight</td>
+ </tr>
+ <tr>
+  <td><i>25 g</i> nutritional yeast</td>
+ </tr>
+ <tr>
+  <td><i>1⁄8 tsp</i> asafetida</td>
+ </tr>
+ <tr>
+  <td><i>1⁄4 tsp</i> salt</td>
+ </tr>
+ <tr>
+  <td><i>2⁄3 cup</i> sunflower oil</td>
+ </tr>
+ <tr>
+  <td><i>2⁄3 cup</i> water</td>
+ </tr>
+ <tr>
+  <td><i><span class=mixed-number>1 1⁄3</span> Tbsp</i> Bragg Liquid Aminos</td>
+ </tr>
+ <tr>
+  <td><i>2 tsp</i> white wine vinegar</td>
+ </tr>
+ <tr>
+  <td><i>1⁄8 tsp</i> almond extract</td>
+ </tr>
+</table>
 
 ## Ingredients
 
@@ -19,8 +53,6 @@ taste closer to what I remember from eating Krishna Lunch many years ago.
 *   1.33 Tbsp Bragg Liquid Aminos (or soy sauce, or Bragg Coconut Liquid Aminos to avoid soy)
 *   2 tsp white wine vinegar
 *   1/8 tsp almond extract
-
-Yields roughly 1.5 cups (~10 servings).
 
 ## Method
 

@@ -7,9 +7,9 @@ title: Asparagus Mushroom Soup
 Time: 15 minutes prep + 30 minutes cooking\
 Serves: 4–6
 
-<table>
+<table class=recipe>
  <tr>
-  <td>1/2 c finely diced onion</td>
+  <td><i>1⁄2 cup</i> finely diced onion</td>
   <td rowspan=2>sauté until golden</td>
   <td rowspan=3>cook 2 minutes</td>
   <td rowspan=4>cook until tender</td>
@@ -18,27 +18,27 @@ Serves: 4–6
   <td rowspan=9>garnish</td>
  </tr>
  <tr>
-  <td>6 Tbsp butter</td>
+  <td><i>6 Tbsp</i> butter</td>
  </tr>
  <tr>
-  <td colspan=2>3 Tbsp flour</td>
+  <td colspan=2><i>3 Tbsp</i> flour</td>
  </tr>
  <tr>
-  <td colspan=3>1/2 lb mushrooms, sliced</td>
+  <td colspan=3><i>1⁄2 lb</i> mushrooms, sliced</td>
  </tr>
  <tr style="text-align: left;">
-  <td>4 c chicken stock</td>
+  <td><i>4 cups</i> chicken stock</td>
   <td colspan=2>bring to a simmer</td>
   <td rowspan=2>cook until tender</td>
  </tr>
  <tr>
-  <td colspan=3>1/2 lb asparagus, cut into 1/2-inch pieces</td>
+  <td colspan=3><i>1⁄2 lb</i> asparagus, cut into 1/2-inch pieces</td>
  </tr>
  <tr>
-  <td colspan=5>1 c evaporated milk</td>
+  <td colspan=5><i>1 cup</i> evaporated milk</td>
  </tr>
  <tr>
-  <td colspan=5>1/4 tsp garlic salt</td>
+  <td colspan=5><i>1⁄4 tsp</i> garlic salt</td>
  </tr>
  <tr>
   <td colspan=6>parsley</td>
