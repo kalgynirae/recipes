@@ -4,9 +4,12 @@ title: Almond Salad Dressing
 
 # Almond Salad Dressing
 
+(“Krishna Dressing”)
+
 This recipe originally came from [Krishna Lunch] at the University of Florida,
-but I’ve added vinegar and tweaked the amounts slightly to try to achieve a
-taste closer to what I remember from Krishna Lunch many years ago.
+but I’ve made many small adjustments over the years to try to achieve a taste
+closer to what I remember. The original recipe doesn’t include vinegar or almond
+extract, but I think these help to balance the flavor.
 
 Makes roughly 1.5 cups (~10 servings).
 
@@ -20,19 +23,19 @@ Makes roughly 1.5 cups (~10 servings).
   <td><i>25 g</i> nutritional yeast</td>
  </tr>
  <tr>
-  <td><i>1⁄8 tsp</i> asafetida</td>
+  <td><i>1⁄8 tsp (0.7 g)</i> asafetida</td>
  </tr>
  <tr>
-  <td><i>1⁄4 tsp</i> salt</td>
+  <td><i>1⁄4 tsp (2.5 g)</i> salt</td>
  </tr>
  <tr>
   <td><i>2⁄3 cup</i> sunflower oil</td>
  </tr>
  <tr>
-  <td><i>2⁄3 cup</i> water</td>
+  <td><i>3⁄4 cup</i> water</td>
  </tr>
  <tr>
-  <td><i><span class=mixed-number>1 1⁄3</span> Tbsp</i> Bragg Liquid Aminos</td>
+  <td><i><span class=mixed-number>1 1⁄2</span> Tbsp</i> Bragg Liquid Aminos</td>
  </tr>
  <tr>
   <td><i>2 tsp</i> white wine vinegar</td>
@@ -44,15 +47,15 @@ Makes roughly 1.5 cups (~10 servings).
 
 ## Ingredients
 
-*   42g almonds (1/2 cup powdered or a loosely-packed 1/3 cup whole)
-*   25g nutritional yeast (1/3 cup, I like [Anthony’s])
-*   1/8 tsp [asafetida powder]
-*   1/4 tsp table salt
-*   2/3 cup sunflower or safflower oil
-*   2/3 cup water
-*   1.33 Tbsp Bragg Liquid Aminos (or soy sauce, or Bragg Coconut Liquid Aminos to avoid soy)
+*   42 g almonds (1⁄2 cup powdered or a loosely-packed 1⁄3 cup whole)
+*   25 g [nutritional yeast] (1⁄3 cup)
+*   1⁄8 tsp (0.7 g) [asafetida (hing)]
+*   1⁄4 tsp (2.5 g) table salt
+*   2⁄3 cup sunflower or safflower oil
+*   3⁄4 cup water
+*   1 1⁄2 Tbsp Bragg Liquid Aminos (or soy sauce, or Bragg Coconut Liquid Aminos to avoid soy)
 *   2 tsp white wine vinegar
-*   1/8 tsp almond extract
+*   1⁄8 tsp almond extract
 
 ## Method
 
@@ -64,5 +67,5 @@ Makes roughly 1.5 cups (~10 servings).
 5.  Refrigerate for at least 2 hours, preferably overnight.
 
 [Krishna Lunch]: https://krishnalunch.com/
-[Anthony’s]: https://www.amazon.com/dp/B07JVLCGYX/
-[asafetida powder]: https://www.amazon.com/Rani-Asafetida-Natural-NON-GMO-Indian/dp/B006POH22Y/
+[nutritional yeast]: https://a.co/d/7EpxBy8
+[asafetida (hing)]: https://www.amazon.com/Rani-Asafetida-Natural-NON-GMO-Indian/dp/B006POH22Y/
