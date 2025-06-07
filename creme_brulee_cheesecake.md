@@ -15,27 +15,27 @@ brûlée recipes.
  <tr>
    <td><i>26</i> graham cracker squares</td>
    <td>crumble</td>
-   <td rowspan="3">mix</td>
-   <td rowspan="3">press into pan</td>
-   <td rowspan="3">bake at 300°F for 10 min</td>
-   <td rowspan="3">cool</td>
-   <td rowspan="10">pour into</td>
-   <td rowspan="10">bake at 250°F for 1 hr</td>
-   <td rowspan="10">sit<br> 1 hr</td>
-   <td rowspan="10">chill<br> 6 hr</td>
-   <td rowspan="11">top and<br> carmelize</td>
+   <td rowspan=3>mix</td>
+   <td rowspan=3>press into pan</td>
+   <td rowspan=3>bake at 300°F for 10 min</td>
+   <td rowspan=3>cool</td>
+   <td rowspan=10>pour into</td>
+   <td rowspan=10>bake at 250°F for 1 hr</td>
+   <td rowspan=10>sit<br> 1 hr</td>
+   <td rowspan=10>chill<br> 6 hr</td>
+   <td rowspan=11>top and<br> carmelize</td>
  </tr>
  <tr>
    <td><i>7 Tbsp</i> butter</td>
    <td>melt</td>
  </tr>
  <tr>
-   <td colspan="2"><i>1 Tbsp</i> sugar</td>
+   <td colspan=2><i>1 Tbsp</i> sugar</td>
  </tr>
  <tr>
    <td><i>5 egg</i> yolks</td>
-   <td rowspan="4" colspan="2">mix</td>
-   <td rowspan="7" colspan="3">slowly mix</td>
+   <td rowspan=4 colspan=2>mix</td>
+   <td rowspan=7 colspan=3>slowly mix</td>
  </tr>
  <tr>
    <td><i><span class=mixed-number>1 1⁄2</span> egg</i> whites</td>
@@ -49,16 +49,16 @@ brûlée recipes.
  <tr>
    <td><i>1 cup</i> sour cream</td>
    <td>beat 10 sec</td>
-   <td rowspan="3">mix</td>
+   <td rowspan=3>mix</td>
  </tr>
  <tr>
-   <td colspan="2"><i>20 oz</i> cream cheese</td>
+   <td colspan=2><i>20 oz</i> cream cheese</td>
  </tr>
  <tr>
-   <td colspan="2"><i>1 cup</i> sugar</td>
+   <td colspan=2><i>1 cup</i> sugar</td>
  </tr>
  <tr>
-   <td colspan="10"><i>1⁄3 cup</i> sugar</td>
+   <td colspan=10><i>1⁄3 cup</i> sugar</td>
  </tr>
 </table>
 

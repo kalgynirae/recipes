@@ -10,7 +10,7 @@ title: Chicken Curry
 
 </aside>
 
-This curry is my attempt to duplicate the "Chicken Curry" from the Indian
+This curry is my attempt to duplicate the “Chicken Curry” from the Indian
 Cuisine restaurant in Gainesville, FL. This version is pretty darn close, but
 there's still room for improvement.
 

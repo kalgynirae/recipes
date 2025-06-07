@@ -11,7 +11,7 @@ Serves: 8
 ## Ingredients
 
 *   1 tbsp coconut oil (or canola or vegetable oil)
-*   1 can curry paste (I like the one that says "Yellow curry paste")
+*   1 can curry paste (I like the one that says “Yellow curry paste”)
 *   1–1.5 lb chicken breast
 *   2 cans coconut milk
 *   4–5 small-ish potatoes (I like gold potatoes)

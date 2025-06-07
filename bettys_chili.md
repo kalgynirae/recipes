@@ -8,7 +8,7 @@ This recipe comes from my mom’s mom (dunno where it came from before that or i
 it was original).
 
 <table class=recipe>
- <tr style="text-align: left;">
+ <tr>
    <td><i>2 Tbsp</i> Crisco or vegetable oil</td>
    <td rowspan=3>brown</td>
    <td rowspan=8>add</td>

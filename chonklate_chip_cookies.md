@@ -1,5 +1,5 @@
 ---
-title: "Chonklate Chip Cookies"
+title: Chonklate Chip Cookies
 ---
 
 # Chonklate Chip Cookies
@@ -17,7 +17,7 @@ recipe] which was imitating the [Levain Bakery chocolate chip walnut cookies].
 [Levain Bakery chocolate chip walnut cookies]: https://www.youtube.com/watch?v=61Zba8jh5Wg
 
 <table class=recipe>
-  <tr style="text-align: left;">
+  <tr>
     <td><i><span class=mixed-number>1 1⁄4</span> cups</i> unsalted butter</td>
     <td>melt</td>
     <td rowspan=5>mix</td>

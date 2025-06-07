@@ -11,7 +11,7 @@ title: Chicken Curry v2
 </aside>
 
 This is the second totally rewritten recipe in my attempt to duplicate the
-"Chicken Curry" from the Indian Cuisine restaurant in Gainesville, FL.
+“Chicken Curry” from the Indian Cuisine restaurant in Gainesville, FL.
 
 Time: 1 hour (shallots) + 1 hour (base gravy) + 10 minutes (curry)   
 Serves: 4

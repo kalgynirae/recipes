@@ -26,7 +26,7 @@ Serves: 4–6
  <tr>
   <td colspan=3><i>1⁄2 lb</i> mushrooms, sliced</td>
  </tr>
- <tr style="text-align: left;">
+ <tr>
   <td><i>4 cups</i> chicken stock</td>
   <td colspan=2>bring to a simmer</td>
   <td rowspan=2>cook until tender</td>

@@ -5,7 +5,7 @@ title: Café Chancakes
 # Café Chancakes
 
 <table class=recipe>
- <tr style="text-align: left;">
+ <tr>
    <td><i>160 g</i> all-purpose flour</td>
    <td rowspan=5>mix</td>
    <td rowspan=12>mix</td>
