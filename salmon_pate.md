@@ -4,24 +4,51 @@ title: Salmon Pate
 
 # Salmon Pate
 
-Recipe by Helen Rennie: https://www.youtube.com/watch?v=GuUVu36CMtE
+Source: <a href="https://www.youtube.com/watch?v=GuUVu36CMtE" rel=external target=_blank><l-icon name=youtube>Helen Rennie</l-icon> – Salmon pate (Best First Fish Dish)</a>
 
-* 1 lb salmon fillet, cooked
-
- <!---->
-
-* zest of 1 lemon
-* 2 tsp lemon juice
-* 1 medium shallot (or 2 scallions), minced
-* 1 Tbsp capers, rinsed, dried, and minced (optional)
-* 2 Tbsp herbs (any mix of tarragon, parsley, dill, chives), minced
-* 113g (4 oz) cold smoked salmon, minced
-* 30g (2 Tbsp) unsalted butter, softened and cut into 4 pieces
-* 65g (4-5 Tbsp) mayo
-* 35g (2 Tbsp) creme fraiche or sour cream
-* 15g (1 Tbsp) Dijon mustard
-* salt and pepper to taste
-
-In a medium bowl, combine everything except the cooked salmon and mix until
-homogeneous. Add the cooked salmon, discarding any skin and brown flesh, and mix
-thoroughly. Refrigerate for at least 4 hours.
+<table class=recipe>
+  <tr>
+    <td><i>1 lb</i> salmon fillet, cooked</td>
+    <td colspan=2>cut into chunks</td>
+    <td rowspan=12>mix, refrigerate 4+ hours</td>
+  </tr>
+  <tr>
+    <td colspan=2><i>2 Tbsp</i> unsalted butter, softened</td>
+    <td rowspan=10>mix</td>
+  </tr>
+  <tr>
+    <td><i>1</i> medium shallot</td>
+    <td>mince</td>
+  </tr>
+  <tr>
+    <td><i>1</i> lemon</td>
+    <td>zest, juice (<i>2 tsp</i>)</td>
+  </tr>
+  <tr>
+    <td colspan=2><i>4 Tbsp</i> mayo</td>
+  </tr>
+  <tr>
+    <td colspan=2><i>2 Tbsp</i> creme fraiche or sour cream</td>
+  </tr>
+  <tr>
+    <td colspan=2><i>1 Tbsp</i> Dijon mustard</td>
+  </tr>
+  <tr>
+    <td><i>1 Tbsp</i> tarragon</td>
+    <td rowspan=2>mince</td>
+  </tr>
+  <tr>
+    <td><i>1 Tbsp</i> dill</td>
+  </tr>
+  <tr>
+    <td><i>1 Tbsp</i> capers</td>
+    <td>rince, dry, mince</td>
+  </tr>
+  <tr>
+    <td><i>4 oz</i> cold-smoked salmon</td>
+    <td>mince</td>
+  </tr>
+  <tr>
+    <td colspan=3>salt and pepper to taste</td>
+  </tr>
+</table>
