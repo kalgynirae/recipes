@@ -7,50 +7,49 @@ title: Dal
 ..time 45 minutes
 ..yield 6 servings (8 when served with rice)
 
-Rinse and soak
+::recipe
+    ..part Spice mix
 
-..* `2 cups` red lentils
+    ..tip You can optionally save time by preparing the spice mix while the lentils are simmering.
 
-for 15 minutes. Drain and place them in a medium pot with
+    ..* `1/2 tsp` cumin seeds
+    ..* `2 tsp` coriander seeds
+    ..* `1/2 tsp` chana dal
+    ..* `1/2 tsp` toor dal
+    ..* `4` dried curry leaves
+    ..* `1/4 tsp` asafetida (hing)
+    ..* `1 tsp` paprika
+    ..* `1/2 tsp` ground sumac
+    ..* `1/2 tsp` cayenne powder :tip:{This amount makes the dish only mildly spicy, but you can omit it if you want no heat at all.}
 
-..* `5 cups` water (it might be necessary to add more later)
-..* `1 inch` ginger root, lightly smashed
-..* `1 tsp` turmeric
-..* `3 cups` diced carrot
-..* `1 3/4 tsp` table salt.
+    ..# Toast the seeds, dal, and curry leaves until fragrant, then grind to a powder.
 
-Bring to a boil, then reduce the heat and simmer for roughly 20 minutes (until
-the lentils are soft and falling apart). Then add
+    ..# Combine with the remaining spices and set aside for later.
 
-..* `2 cups` sliced zucchini
+    ..part Dal
 
-and simmer for 10 minutes more. (The goal is to add the zucchini near enough to
-the end of cooking that it won’t become overcooked and start to disintegrate.)
+    ..* `2 cups` red lentils, rinsed well
+    ..* `5 cups` water :tip:{It might be necessary to add more later.}
+    ..* `1 inch (5 g)` ginger root, crushed :tip:{but ideally still in one piece so you can easily remove it later}
+    ..* `1 tsp` turmeric powder
+    ..* `3 cups` diced carrot
+    ..* `1 3/4 tsp` table salt
+    ..* `2 cups` sliced zucchini
+    ..* `1/4 cup` coconut oil
+    ..* `1 Tbsp` lemon juice (or more, to taste)
+    ..* additional salt, to taste
 
-While the lentils and vegetables are simmering, toast and grind
+    ..#(start=3) In a pot, combine the lentils, water, ginger, turmeric, carrot, and salt.
 
-..* `1/2 tsp` cumin seeds
-..* `2 tsp` coriander seeds
-..* `1/2 tsp` chana dal
-..* `1/2 tsp` toor dal
-..* `3` dried curry leaves.
+    ..# Bring to a boil, then reduce the heat and simmer for roughly 20 minutes (until the lentils are soft and starting to fall apart).
 
-Mix the ground spices with
+    ..# Add the zucchini and continue to simmer for 10 minutes. :tip:{The goal is to add the zucchini near enough to the end of cooking that it won't become overcooked and start to disintegrate.}
 
-..* `1/4 tsp` asafetida (hing)
-..* `1 tsp` paprika
-..* `1/2 tsp` ground sumac
-..* `1/2 tsp` cayenne powder (optional, makes it spicy).
+    ..# In a small skillet, heat the coconut oil, then add the spice mix and fry for 30 seconds.
 
-In a small pan, heat
+    ..# Stir the oil and spices into the lentils.
 
-..* `1/4 cup` coconut oil.
+    ..# Remove the lentils from the heat, remove the ginger root, and
+    add the lemon juice and additional salt to taste.
 
-Add the spices, fry for 1 minute, and then stir the oil+spices into the lentils.
-
-Remove from the heat, remove the ginger root, and adjust the seasoning with:
-
-..* `1 Tbsp` lemon juice (or more, to taste)
-..* salt, to taste
-
-Serve alone or over rice.
+    ..# Serve alone or over rice.
