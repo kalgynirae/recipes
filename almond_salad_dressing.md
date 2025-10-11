@@ -2,8 +2,6 @@
 title: Almond Salad Dressing
 ---
 
-<div class=compact-headings>
-
 # Almond Salad Dressing
 
 (“Krishna Dressing”)
@@ -34,8 +32,6 @@ Makes roughly 1.5 cups (~10 servings).
 3.  Taste. If it’s too thick, add a small amount of extra water and blend
     briefly. (Note that it will thicken a bit with refrigeration.)
 4.  Refrigerate for at least 2 hours, preferably overnight.
-
-</div>
 
 [Krishna Lunch]: https://krishnalunch.com/
 [nutritional yeast]: https://a.co/d/7EpxBy8
