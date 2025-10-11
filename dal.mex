@@ -4,13 +4,11 @@ title: Dal
 ..h1 Dal
 
 ..author Colin Chan
-..time 45 minutes
+..time 50 minutes (10 prep + 40 cooking)
 ..yield 6 servings (8 when served with rice)
 
 ::recipe
-    ..part Spice mix
-
-    ..tip You can optionally save time by preparing the spice mix while the lentils are simmering.
+    ..recipe-part Spice mix
 
     ..* `1/2 tsp` cumin seeds
     ..* `2 tsp` coriander seeds
@@ -20,30 +18,30 @@ title: Dal
     ..* `1/4 tsp` asafetida (hing)
     ..* `1 tsp` paprika
     ..* `1/2 tsp` ground sumac
-    ..* `1/2 tsp` cayenne powder :tip:{This amount makes the dish only mildly spicy, but you can omit it if you want no heat at all.}
+    ..* `1/2 tsp` cayenne powder :inline-tip:{This amount makes the dish only mildly spicy, but you can omit it if you want no heat at all.}
 
     ..# Toast the seeds, dal, and curry leaves until fragrant, then grind to a powder.
 
     ..# Combine with the remaining spices and set aside for later.
 
-    ..part Dal
+    ..recipe-part Dal
 
     ..* `2 cups` red lentils, rinsed well
-    ..* `5 cups` water :tip:{It might be necessary to add more later.}
-    ..* `1 inch (5 g)` ginger root, crushed :tip:{but ideally still in one piece so you can easily remove it later}
+    ..* `5 cups` water :inline-tip:{It might be necessary to add more later.}
+    ..* `1 inch (5 g)` ginger root, crushed :inline-tip:{but ideally still in one piece so you can easily remove it later}
     ..* `1 tsp` turmeric powder
     ..* `3 cups` diced carrot
     ..* `1 3/4 tsp` table salt
     ..* `2 cups` sliced zucchini
     ..* `1/4 cup` coconut oil
     ..* `1 Tbsp` lemon juice (or more, to taste)
-    ..* additional salt, to taste
+    ..* `additional` salt, to taste
 
     ..#(start=3) In a pot, combine the lentils, water, ginger, turmeric, carrot, and salt.
 
     ..# Bring to a boil, then reduce the heat and simmer for roughly 20 minutes (until the lentils are soft and starting to fall apart).
 
-    ..# Add the zucchini and continue to simmer for 10 minutes. :tip:{The goal is to add the zucchini near enough to the end of cooking that it won't become overcooked and start to disintegrate.}
+    ..# Add the zucchini and continue to simmer for 10 minutes. :inline-tip:{The goal is to add the zucchini near enough to the end of cooking that it won’t become overcooked and start to disintegrate.}
 
     ..# In a small skillet, heat the coconut oil, then add the spice mix and fry for 30 seconds.
 
