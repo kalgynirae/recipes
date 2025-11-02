@@ -1,0 +1,90 @@
+title: Chicken Curry
+links:
+  "Indian Cuisine": http://www.indiancuisinerestaurant.com/
+---
+
+..h1 Chicken Curry
+
+This curry is my attempt to duplicate the Chicken Curry from |Indian Cuisine|
+in Gainesville, FL.
+
+**Note:** This recipe recently underwent a significant rewrite and has not been
+fully tested since.
+
+..author Colin Chan
+..time 120? minutes (15 spice mix + ?? + 90 chicken + 30 curry)
+..yield 4 servings
+
+::recipe
+    ..recipe-part Spice mix
+
+    ..* `1 Tbsp (5.0 g)` coriander seeds
+    ..* `1 1/2 tsp (5.0 g)` cumin seeds
+    ..* `2 tsp (5.5 g)` fennel seeds
+    ..* `1/2 tsp (2.5 g)` fenugreek seeds
+    ..* `1/4 tsp (0.5 g)` whole cloves
+    ..* `1/4 tsp (1.0 g)` cardamom seeds
+    ..* `1 (0.5 g)` black cardamom pod
+    ..* `1/4 tsp (1.1 g)` black peppercorns
+    ..* `2 (0.2 g)` star anise points
+    ..* `2 tsp` paprika
+    ..* `1 tsp (2.2 g)` turmeric
+    ..* `1/4 tsp (0.5 g)` cinnamon powder
+    ..* `1/4 tsp (0.5 g)` nutmeg powder
+
+    ..#(start=1) Toast the whole spices and grind to a powder. Add the powdered spices.
+    Theoretically, this makes 1/4 cup (30 g) of spice mix.
+
+    ..recipe-part Curry base
+
+    ..* `1/2 cup` oil
+    ..* `1.4 lb` onion, sliced
+    ..* `1` green bell pepper
+    ..* `2 Tbsp` garlic paste
+    ..* `1 Tbsp` ginger paste
+    ..* `2 Tbsp` tomato paste
+    ..* `2 c` chicken stock
+    ..* `3 Tbsp` [spice mix]
+
+    ..#(start=2) Make the curry base.
+
+    ..recipe-part Chicken
+
+    ..* `5 Tbsp` greek yogurt
+    ..* `1/4 c` oil
+    ..* `1/4 c` lemon juice
+    ..* `3 Tbsp` vinegar
+    ..* `1 Tbsp` garlic paste
+    ..* `1 Tbsp` Diamond Crystal kosher salt
+    ..* `1 Tbsp` [spice mix] (what's left)
+    ..* `1 Tbsp` paprika
+    ..* `1 Tbsp` turmeric
+
+    ..#(start=3) Make the marinade.
+
+    ..* ?? chicken thighs
+
+    ..#(start=4) Marinate the chicken thighs for at least 30 minutes (ideally 2 hours).
+
+    ..# Grill the chicken, rest, and slice into bite-sized pieces.
+
+    ..recipe-part Curry
+
+    ..* `1/4 c` oil
+    ..* `10` green cardamom pods
+    ..* `8` cloves
+    ..* `3/4 tsp` cumin seeds
+    ..* `2 Tbsp` golden raisins
+    ..* `1 Tbsp` garlic paste
+    ..* `2 tsp` ginger paste
+    ..* `2 tsp` turmeric
+    ..* `1/4 c` butter
+    ..* ?? [curry base]
+    ..* `3/4 tsp` table salt
+    ..* `2 tsp` lemon juice
+    ..* [cooked chicken]
+    ..* `1/2 tsp` fenugreek leaves :inline-tip:{ideally ground almost to a powder, not large leaves}
+    ..* `1/4 c` heavy cream
+    ..* cilantro for garnish
+
+    ..#(start=6) Make the curry.
