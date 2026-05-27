@@ -8,12 +8,11 @@ links:
 This curry is my attempt to duplicate the Chicken Curry from |Indian Cuisine|
 in Gainesville, FL.
 
-**Note:** This recipe recently underwent a significant rewrite and has not been
-fully tested since.
+**Note:** The curry was quite good last time using 3 c (roughly 3/4) of the base. But it would probably be better to scale it up to use the full amount, or to scale it down for half.
 
 ..author Colin Chan
 ..time 120? minutes (15 spice mix + ?? + 90 chicken + 30 curry)
-..yield 4 servings
+..yield 6 servings
 
 ::recipe
     ..recipe-part Spice mix
@@ -22,38 +21,38 @@ fully tested since.
     ..* `1 1/2 tsp (5.0 g)` cumin seeds
     ..* `2 tsp (5.5 g)` fennel seeds
     ..* `1/2 tsp (2.5 g)` fenugreek seeds
-    ..* `1/4 tsp (0.5 g)` whole cloves
-    ..* `1/4 tsp (1.0 g)` cardamom seeds
+    ..* `1/4 tsp (0.6 g)` whole cloves
+    ..* `6 (1.2 g)` green cardamom pods (weight is right, count is a guess)
     ..* `1 (0.5 g)` black cardamom pod
     ..* `1/4 tsp (1.1 g)` black peppercorns
     ..* `2 (0.2 g)` star anise points
-    ..* `2 tsp` paprika
-    ..* `1 tsp (2.2 g)` turmeric
+    ..* `2 tsp (5.3 g)` paprika
+    ..* `1 tsp (2.8 g)` turmeric
     ..* `1/4 tsp (0.5 g)` cinnamon powder
     ..* `1/4 tsp (0.5 g)` nutmeg powder
 
     ..#(start=1) Toast the whole spices and grind to a powder. Add the powdered spices.
-    Theoretically, this makes 1/4 cup (30 g) of spice mix.
+    Theoretically, this makes 4 Tbsp (30 g) of spice mix.
 
     ..recipe-part Curry base
 
     ..* `1/2 cup` oil
-    ..* `1.4 lb` onion, sliced
-    ..* `1` green bell pepper
+    ..* `2 (1.4 lb)` large yellow onions, sliced
+    ..* `1 (0.5 lb)` green bell pepper, sliced
     ..* `2 Tbsp` garlic paste
     ..* `1 Tbsp` ginger paste
     ..* `2 Tbsp` tomato paste
-    ..* `2 c` chicken stock
+    ..* `2.5 c` chicken stock
     ..* `3 Tbsp` [spice mix]
 
     ..#(start=2) Make the curry base.
 
     ..recipe-part Chicken
 
-    ..* `5 Tbsp` greek yogurt
-    ..* `1/4 c` oil
-    ..* `1/4 c` lemon juice
-    ..* `3 Tbsp` vinegar
+    ..* `1/4 cup` greek yogurt
+    ..* `3 Tbsp` oil
+    ..* `3 Tbsp` lemon juice
+    ..* `2 Tbsp` vinegar
     ..* `1 Tbsp` garlic paste
     ..* `1 Tbsp` Diamond Crystal kosher salt
     ..* `1 Tbsp` [spice mix] (what's left)
@@ -62,7 +61,7 @@ fully tested since.
 
     ..#(start=3) Make the marinade.
 
-    ..* ?? chicken thighs
+    ..* 5 chicken thighs (6 boneless if broiling)
 
     ..#(start=4) Marinate the chicken thighs for at least 30 minutes (ideally 2 hours).
 
@@ -71,8 +70,6 @@ fully tested since.
     ..recipe-part Curry
 
     ..* `1/4 c` oil
-    ..* `10` green cardamom pods
-    ..* `8` cloves
     ..* `3/4 tsp` cumin seeds
     ..* `2 Tbsp` golden raisins
     ..* `1 Tbsp` garlic paste
