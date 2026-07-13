@@ -6,7 +6,8 @@ title: Chili
 
 <aside>
 
-A **vegan version** of this recipe is available: [Café Chan Vegan Chili (hyperchef)](https://www.hyperchef.net/recipes/cafe-chan-vegan-chili/)
+I also have a very tasty [**Vegan Chili**](/recipes/vegan-chili/) that was
+originally based on this recipe.
 
 </aside>
 
