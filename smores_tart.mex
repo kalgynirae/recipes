@@ -1,0 +1,91 @@
+title: S’mores Tart
+links:
+  "What’s for Dessert": "https://www.goodreads.com/en/book/show/60863607-what-s-for-dessert"
+  "Brian Lagerstrom’s Key Lime Pie": "https://www.youtube.com/watch?v=R3RPfHkV-sQ"
+---
+
+..h1 S’mores Tart
+
+Based on a recipe by Claire Saffitz from her book |What’s for Dessert|, but using the crust from |Brian Lagerstrom’s Key Lime Pie|, with small modifications to both.
+
+**NOTE: This is a draft.**
+
+..author Colin Chan
+..time ?? hours
+..yield 1 tart
+
+::recipe
+
+    ..recipe-part Crust
+
+    ..* `230 g` graham crackers
+    ..* `25 g` milk powder
+    ..* `30 g` sugar
+    ..* `4 g` salt
+    ..* `? g` cardamom powder
+    ..* `65 g` unsalted butter, melted but not hot
+    ..* `65 g` heavy cream
+
+    ..# Pulse the graham crackers, milk powder, sugar, and salt in a food processor until they have a sandy texture.
+
+    ..# Pour in the butter and cream while spinning until the texture is like damp sand (holds together when you squeeze).
+
+    ..# Press into a greased pie pan and bake at 375°F for 12(?) minutes (light golden brown color).
+
+    ..# Cool completely.
+
+
+    ..recipe-part Ganache
+
+    ..* `170 g` chocolate (64–70% cacao)
+    ..* `? g (generous pinch)` salt
+    ..* `2 Tbsp` unsalted butter
+    ..* `3/4 c` heavy cream
+
+    ..#(start=5) Heat the cream to ?? temp (too hot, chocolate breaks).
+
+    ..# Pour the cream over the chocolate, salt, and butter, and let sit for 5 minutes to melt the chocolate.
+
+    ..# Whisk gently, starting in the center and working outward, until the mixture is completely smooth.
+
+    ..* `1/2 c` heavy cream
+    
+    ..#(start=8) Whip to medium peaks.
+
+    ..# Beat the ganache until it thickens (4 minutes).
+
+    ..# Fold in the whipped cream.
+
+    ..# Spread into the crust and set aside uncovered to set (>15 minutes).
+
+
+    ..recipe-part Marshmallow
+
+    ..* `1/4 c` cold water
+    ..* `2.5 tsp (1 packet)` gelatin
+
+    ..#(start=11) Hydrate the gelatin for 10 minutes.
+
+    ..# Melt the gelatin in a double-boiler.
+
+    ..# Remove from the heat and let cool for 1 minute.
+
+    ..* `133 g` sugar
+    ..* `2 Tbsp` light corn syrup
+    ..* `105 g (3)` egg whites
+    ..* `1/8 tsp` cream of tartar
+    ..* `? g (generous pinch)` salt
+
+    ..#(start=14) Add the sugar, corn syrup, egg whites, cream of tartar, and salt, and whisk continuously until the sugar fully dissolves.
+
+    ..# Whisk to 160°F over the double-boiler to pasteurize.
+
+    ..# Beat to stiff peaks (7–9 minutes).
+
+    ..* `1 Tbsp` vanilla
+
+    ..#(start=17) Beat in vanilla.
+
+    ..# Scrape onto the tart and swirl.
+
+    ..# Let sit uncovered until the marshmallow is firm (>2 hours).
