@@ -1,62 +1,49 @@
 title: S’mores Tart
 links:
   "What’s for Dessert": "https://www.goodreads.com/en/book/show/60863607-what-s-for-dessert"
-  "Brian Lagerstrom’s Key Lime Pie": "https://www.youtube.com/watch?v=R3RPfHkV-sQ"
 ---
 
 ..h1 S’mores Tart
 
-Based on a recipe by Claire Saffitz from her book |What’s for Dessert|, but using the crust from |Brian Lagerstrom’s Key Lime Pie|, with small modifications to both.
+Based on a recipe by Claire Saffitz from her book |What’s for Dessert|, with small modifications, and using a different crust recipe (TBD).
 
 **NOTE: This is a draft.**
 
-..author Colin Chan
-..time ?? hours
+**TODO: Replace the crust.** Try just graham, brown sugar, butter as suggested here: https://www.reddit.com/r/AskCulinary/comments/18pj6hl/comment/keolm6y/ (plus the cardamom?)
+
+..author Colin
+..time 3.5 hours (1.5 prep + 2 waiting)
 ..yield 1 tart
 
 ::recipe
 
     ..recipe-part Crust
 
-    ..* `230 g` graham crackers
-    ..* `25 g` milk powder
-    ..* `30 g` sugar
-    ..* `4 g` salt
-    ..* `? g` cardamom powder
-    ..* `65 g` unsalted butter, melted but not hot
-    ..* `65 g` heavy cream
+    ..* `1` graham cracker crust recipe
+    ..* the ingredients for the crust
+    ..* `0.3 g (1 pod’s seeds)` cardamom powder
 
-    ..# Pulse the graham crackers, milk powder, sugar, and salt in a food processor until they have a sandy texture.
+    ..# Find a new graham cracker crust recipe and follow it. :inline-tip:{The previous ones I tried weren’t great. Adding a touch of cardamom is still a good idea, though!}
 
-    ..# Pour in the butter and cream while spinning until the texture is like damp sand (holds together when you squeeze).
-
-    ..# Press into a greased pie pan and bake at 375°F for 12(?) minutes (light golden brown color).
-
-    ..# Cool completely.
+    ..# Time the following so the crust will be fully cooled (30 minutes).
 
 
     ..recipe-part Ganache
 
-    ..* `170 g` chocolate (64–70% cacao)
-    ..* `? g (generous pinch)` salt
-    ..* `2 Tbsp` unsalted butter
     ..* `3/4 c` heavy cream
+    ..* `180 g` dark chocolate, chopped
+    ..* `0.8 g (generous pinch)` salt
+    ..* `2 Tbsp` unsalted butter, sliced
 
-    ..#(start=5) Heat the cream to ?? temp (too hot, chocolate breaks).
+    ..#(start=3) Heat the cream to 190°F, then pour over the chocolate and salt. Add the butter, and wait for the chocolate to melt (5 minutes).
 
-    ..# Pour the cream over the chocolate, salt, and butter, and let sit for 5 minutes to melt the chocolate.
-
-    ..# Whisk gently, starting in the center and working outward, until the mixture is completely smooth.
+    ..# Whisk gently, starting in the center and working outward, until the mixture is completely smooth. :inline-tip:{If the chocolate didn't fully melt, microwave in 10-second intervals, whisking between, until the chocolate is fully melted.}
 
     ..* `1/2 c` heavy cream
     
-    ..#(start=8) Whip to medium peaks.
+    ..#(start=5) Whip the cream to medium peaks, then fold into the ganache.
 
-    ..# Beat the ganache until it thickens (4 minutes).
-
-    ..# Fold in the whipped cream.
-
-    ..# Spread into the crust and set aside uncovered to set (>15 minutes).
+    ..# Spread into the crust and set aside uncovered to set (20 minutes).
 
 
     ..recipe-part Marshmallow
@@ -64,28 +51,26 @@ Based on a recipe by Claire Saffitz from her book |What’s for Dessert|, but us
     ..* `1/4 c` cold water
     ..* `2.5 tsp (1 packet)` gelatin
 
-    ..#(start=11) Hydrate the gelatin for 10 minutes.
+    ..#(start=7) Hydrate the gelatin for 10 minutes in a metal bowl (for double-boilering).
 
-    ..# Melt the gelatin in a double-boiler.
+    ..# Place the bowl over the heat, melt the gelatin, then remove from the heat.
 
-    ..# Remove from the heat and let cool for 1 minute.
-
-    ..* `133 g` sugar
+    ..* `135 g` sugar
     ..* `2 Tbsp` light corn syrup
-    ..* `105 g (3)` egg whites
+    ..* `100 g` pasteurized egg whites
     ..* `1/8 tsp` cream of tartar
-    ..* `? g (generous pinch)` salt
+    ..* `0.6 g (pinch)` salt
 
-    ..#(start=14) Add the sugar, corn syrup, egg whites, cream of tartar, and salt, and whisk continuously until the sugar fully dissolves.
+    ..#(start=9) Add the sugar, corn syrup, egg whites, cream of tartar, and salt, and whisk continuously over the heat until the sugar fully dissolves (and the mixture has come up to 130°F ??).
 
-    ..# Whisk to 160°F over the double-boiler to pasteurize.
+    ..# Remove from the heat and beat to stiff peaks (8–10 minutes).
 
-    ..# Beat to stiff peaks (7–9 minutes).
+    ..* `1 tsp` vanilla extract
 
-    ..* `1 Tbsp` vanilla
+    ..#(start=11) Beat in the vanilla extract.
 
-    ..#(start=17) Beat in vanilla.
+    ..# Spread onto the tart.
 
-    ..# Scrape onto the tart and swirl.
+    ..# Let sit uncovered until the marshmallow is firm (2+ hours).
 
-    ..# Let sit uncovered until the marshmallow is firm (>2 hours).
+    ..# Torch the marshmallow and serve!
